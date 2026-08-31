@@ -1,165 +1,178 @@
-# run=2026-08-31_0443  universe=1124  cache_hit=49.3%  price_stale=722/1124  fetch_failed=52/1124
-ready_to_buy_score,ticker,price,target_upside,quality_flag,cyclicality,cyclical_driver,cycle_position,cycle_reason,turn_state,trailingPE,forwardPE,peg,pe_delta,eps_rev_90d,eps_rev_30d,rev_accel,rsi14,pct_change_5d,pct_change_1mo,dist_from_ath,price_above_ma50,sector,rtb_f1_timing,rtb_f2_estimates,rtb_f3_ath,rtb_f4_targets,rtb_f5_trend,rtb_f6_volume,rtb_f7_cycle
-84.6,AMG,370.87,18.0%,HIGH,MIXED,RATE,TROUGH,"margins contracting, estimates stabilising",WATCH,13.02,8.67,0.71,4.40,22.38,14.69,-7.69,55.80,4.1%,1.5%,-5.6%,True,Financial Services,20.0,20.0,12.7,0.0,5.0,0.0,5.0
-78.2,KB,124.16,44.6%,MEDIUM,DEFENSIVE,,EARLY,fwd<trail PE + healthy margins (op_m=59%) → grower (EARLY),CONFIRMED,10.18,8.40,0.71,1.80,8.56,8.56,0.00,60.60,5.3%,2.5%,-1.2%,True,Financial Services,10.0,13.1,12.8,0.0,12.0,8.0,2.0
-77.0,NVDA,217.55,48.7%,HIGH,CYCLICAL,COMMODITY,TROUGH,"margins contracting, estimates stabilising",WATCH,27.47,14.21,0.63,13.30,21.47,19.44,-2.03,52.30,1.3%,11.5%,-8.0%,True,Technology,20.0,20.0,0.0,15.0,5.0,0.0,-3.0
-76.0,EXPO,71.53,17.4%,HIGH,CYCLICAL,CAPEX,TROUGH,fwd<trail PE + eps30=2.8>1.5 + low margins → TROUGH,CONFIRMED,32.08,25.21,2.03,6.90,2.82,2.82,0.00,67.10,1.9%,10.8%,-44.0%,True,Industrials,20.0,4.3,0.0,15.0,12.0,0.0,5.0
-74.2,DELL,456.24,11.8%,MEDIUM,CYCLICAL,CAPEX,TROUGH,"margins contracting, estimates stabilising",WATCH,36.35,20.37,0.77,16.00,59.88,3.75,-56.13,52.60,3.2%,12.7%,-11.2%,True,Technology,10.0,20.0,0.0,15.0,5.0,0.0,5.0
-74.2,NUE,250.50,12.9%,MEDIUM,CYCLICAL,COMMODITY,TROUGH,"margins contracting, estimates stabilising",WATCH,19.99,13.15,,6.80,20.66,9.55,-11.11,46.50,2.8%,-2.5%,-10.6%,True,Basic Materials,10.0,20.0,0.0,15.0,5.0,0.0,5.0
-74.2,ARXS,52.47,17.6%,MEDIUM,CYCLICAL,ECONOMIC,TROUGH,"margins contracting, estimates stabilising",WATCH,655.88,40.69,,615.20,71.27,38.94,-32.33,49.20,-1.5%,7.1%,-14.7%,True,Industrials,10.0,20.0,0.0,15.0,5.0,0.0,5.0
-73.6,ANET,195.38,23.8%,HIGH,CYCLICAL,CAPEX,EARLY,fwd<trail PE + healthy margins (op_m=45%) → grower (EARLY),WATCH,61.63,37.87,1.90,23.80,15.96,15.49,-0.47,54.60,3.6%,14.2%,-9.1%,True,Technology,20.0,20.0,-3.5,8.0,5.0,0.0,5.0
-71.1,SBAC,190.95,18.6%,HIGH,CYCLICAL,RATE,TROUGH,"margins contracting, estimates stabilising",CONFIRMED,20.62,23.27,,-2.60,0.43,0.43,0.00,59.90,4.6%,5.0%,-51.2%,True,Real Estate,20.0,0.7,0.0,15.0,12.0,0.0,5.0
-70.9,APA,42.54,2.8%,HIGH,CYCLICAL,COMMODITY,TROUGH,"margins contracting, estimates stabilising",CONFIRMED,8.97,10.13,,-1.20,1.57,2.35,0.78,62.00,-2.0%,17.1%,-18.1%,True,Energy,20.0,3.5,0.0,15.0,12.0,0.0,2.0
-69.1,PLTR,186.29,2.9%,HIGH,MIXED,CAPEX,MID,margins expanding + est rising (op_m=47%),CONFIRMED,159.22,80.50,2.49,78.70,11.57,10.49,-1.08,69.30,3.5%,52.4%,-10.2%,True,Technology,20.0,16.7,-7.5,0.0,12.0,8.0,2.0
-67.8,MSA,190.34,9.9%,HIGH,CYCLICAL,ECONOMIC,TROUGH,"margins contracting, estimates stabilising",WATCH,23.70,18.97,0.99,4.70,3.42,3.37,-0.05,60.20,0.5%,9.2%,-8.9%,True,Industrials,20.0,5.2,0.0,15.0,5.0,0.0,5.0
-65.7,AMZN,266.43,23.0%,HIGH,CYCLICAL,ECONOMIC,EARLY,margins expanding + est rising (op_m=14%),WATCH,21.42,25.64,1.36,-4.20,5.46,4.36,-1.10,55.90,3.0%,13.1%,-7.2%,True,Consumer Cyclical,20.0,7.3,3.4,8.0,5.0,0.0,5.0
-65.2,CNQ,48.99,0.2%,HIGH,CYCLICAL,COMMODITY,TROUGH,"margins contracting, estimates stabilising",WATCH,12.10,12.69,,-0.60,4.45,3.89,-0.56,56.60,-4.7%,3.6%,-4.8%,True,Energy,20.0,6.3,0.0,15.0,5.0,0.0,2.0
-63.9,BEKE,18.32,28.9%,MEDIUM,CYCLICAL,RATE,TROUGH,"margins contracting, estimates stabilising",WATCH,29.55,14.70,,14.80,9.69,10.06,0.37,64.10,3.2%,7.8%,-29.7%,True,Real Estate,10.0,15.3,0.0,15.0,5.0,0.0,2.0
-63.7,MSFT,513.53,10.9%,HIGH,MIXED,CAPEX,MID,margins expanding + est rising (op_m=45%),CONFIRMED,28.58,21.78,1.64,6.80,4.18,4.28,0.10,73.10,6.3%,13.8%,-7.5%,True,Technology,20.0,6.5,3.7,0.0,12.0,0.0,5.0
-63.3,SIEGY,167.37,3.9%,MEDIUM,CYCLICAL,ECONOMIC,TROUGH,fwd<trail PE + eps30=10.6>1.5 + low margins → TROUGH,WATCH,28.66,22.65,,6.00,0.76,10.57,9.81,61.00,2.3%,2.6%,-1.2%,True,Industrials,10.0,14.9,0.0,15.0,5.0,0.0,2.0
-62.8,CVX,201.86,8.1%,MEDIUM,CYCLICAL,COMMODITY,EARLY,fwd<trail PE + healthy margins (op_m=22%) → grower (EARLY),WATCH,19.41,15.25,0.77,4.20,7.50,4.47,-3.03,60.00,-1.7%,5.0%,-6.0%,True,Energy,10.0,8.5,10.0,8.0,5.0,0.0,5.0
-62.2,LOPE,151.19,29.0%,HIGH,DEFENSIVE,,MID,fwd<trail PE + healthy margins (op_m=22%) → grower (MID),CONFIRMED,18.28,13.35,0.98,4.90,-0.28,1.43,1.71,56.70,2.5%,0.7%,-32.2%,True,Consumer Defensive,20.0,2.3,9.8,0.0,12.0,0.0,2.0
-61.4,SAN,14.67,0.8%,MEDIUM,MIXED,RATE,EARLY,fwd<trail PE + healthy margins (op_m=43%) → grower (EARLY),WATCH,14.24,10.25,,4.00,9.35,16.77,7.42,57.60,0.5%,4.0%,-2.2%,True,Financial Services,10.0,23.0,5.5,0.0,5.0,0.0,2.0
-61.2,ANF,148.42,9.8%,MEDIUM,CYCLICAL,ECONOMIC,TROUGH,"margins contracting, estimates stabilising",WATCH,12.82,11.65,3.62,1.20,7.08,6.51,-0.57,77.70,36.1%,48.0%,-24.7%,True,Consumer Cyclical,10.0,10.3,0.0,15.0,5.0,0.0,5.0
-60.2,SF,81.29,9.5%,MEDIUM,MIXED,RATE,EARLY,fwd<trail PE + healthy margins (op_m=22%) → grower (EARLY),CONFIRMED,14.54,11.09,0.97,3.40,4.67,4.37,-0.30,49.90,0.4%,-1.6%,-9.5%,True,Financial Services,10.0,6.9,10.7,0.0,12.0,0.0,5.0
-59.9,COP,130.35,11.5%,MEDIUM,CYCLICAL,COMMODITY,TROUGH,"margins contracting, estimates stabilising",WATCH,17.24,13.68,1.01,3.60,4.09,6.28,2.19,61.30,-3.4%,9.5%,-5.9%,True,Energy,10.0,9.4,0.0,15.0,5.0,0.0,5.0
-59.9,CVE,31.58,16.4%,MEDIUM,CYCLICAL,COMMODITY,EARLY,fwd<trail PE + healthy margins (op_m=24%) → grower (EARLY),WATCH,12.15,12.01,,0.10,2.71,7.94,5.23,58.10,-4.1%,4.2%,-5.5%,True,Energy,10.0,11.5,4.9,8.0,5.0,0.0,5.0
-58.3,PR,22.70,15.5%,MEDIUM,CYCLICAL,COMMODITY,TROUGH,"margins contracting, estimates stabilising",WATCH,14.65,10.35,1.33,4.30,3.27,5.54,2.27,57.70,-4.4%,8.1%,-5.8%,True,Energy,10.0,8.2,0.0,15.0,5.0,0.0,5.0
-57.1,AMP,559.32,3.6%,HIGH,MIXED,RATE,EARLY,fwd<trail PE + healthy margins (op_m=31%) → grower (EARLY),WATCH,13.51,10.83,1.78,2.70,8.45,3.64,-4.81,58.30,0.7%,2.7%,-3.9%,True,Financial Services,20.0,8.1,7.2,0.0,5.0,0.0,2.0
-55.9,ZBRA,356.45,15.8%,MEDIUM,MIXED,CAPEX,EARLY,fwd<trail PE + healthy margins (op_m=21%) → grower (EARLY),WATCH,32.67,16.03,0.67,16.60,7.40,7.35,-0.05,59.30,-3.3%,23.5%,-42.0%,True,Technology,10.0,11.3,10.1,0.0,5.0,0.0,5.0
-55.8,FANG,197.67,17.6%,MEDIUM,CYCLICAL,COMMODITY,TROUGH,"margins contracting, estimates stabilising",WATCH,37.58,10.91,,26.70,3.41,4.18,0.77,47.20,-6.2%,-1.1%,-8.9%,True,Energy,10.0,6.3,0.0,15.0,5.0,0.0,5.0
-55.6,PEGA,36.17,19.9%,HIGH,MIXED,ECONOMIC,MID,"margins expanding, estimates not yet moving",CONFIRMED,20.55,13.68,,6.90,,,,66.20,7.8%,20.4%,-49.2%,True,Technology,20.0,0.0,4.2,0.0,12.0,0.0,5.0
-55.5,SN,191.23,9.6%,MEDIUM,CYCLICAL,ECONOMIC,EARLY,margins expanding + est rising (op_m=10%),WATCH,39.03,24.96,,14.10,9.35,8.08,-1.27,71.30,5.8%,17.1%,-1.7%,True,Consumer Cyclical,10.0,13.1,0.0,8.0,5.0,0.0,5.0
-55.4,GGG,79.29,15.1%,HIGH,CYCLICAL,ECONOMIC,EARLY,fwd<trail PE + healthy margins (op_m=30%) → grower (EARLY),WATCH,24.93,22.60,2.59,2.30,3.76,0.09,-3.67,46.00,-1.7%,-0.9%,-17.1%,True,Industrials,20.0,2.1,0.9,8.0,5.0,0.0,5.0
-55.1,REGN,794.19,5.8%,HIGH,MIXED,ECONOMIC,TROUGH,"margins contracting, estimates stabilising",WATCH,19.65,13.10,,6.50,4.75,6.14,1.39,55.90,-4.8%,7.6%,-34.4%,True,Healthcare,20.0,9.3,4.5,0.0,5.0,0.0,2.0
-54.7,SAP,221.54,11.6%,HIGH,DEFENSIVE,,MID,"margins expanding, estimates not yet moving",CONFIRMED,28.48,22.90,1.89,5.60,-1.18,0.76,1.94,71.30,1.3%,22.5%,-29.3%,True,Technology,20.0,1.3,2.2,0.0,12.0,0.0,5.0
-53.6,SEIC,111.63,3.8%,HIGH,MIXED,RATE,MID,margins expanding + est rising (op_m=31%),CONFIRMED,19.69,16.14,,3.50,4.54,0.00,-4.54,81.30,1.9%,8.3%,-0.5%,True,Financial Services,20.0,2.4,3.3,0.0,12.0,0.0,2.0
-53.5,ALL,260.58,5.2%,HIGH,MIXED,RATE,MID,margins expanding + est rising (op_m=23%),WATCH,5.22,9.44,3.09,-4.20,5.08,4.14,-0.94,52.40,2.7%,-1.8%,-6.0%,True,Financial Services,20.0,6.8,5.8,0.0,5.0,0.0,2.0
-52.9,FUTU,124.26,29.6%,HIGH,MIXED,RATE,MID,"margins expanding, estimates not yet moving",WATCH,12.38,10.06,,2.30,-9.93,1.04,10.97,64.40,0.5%,20.2%,-38.6%,True,Financial Services,20.0,6.6,5.6,0.0,5.0,0.0,2.0
-52.7,G,38.02,10.9%,MEDIUM,DEFENSIVE,,MID,fwd<trail PE but eps30=0.8 flat/weak → MID,CONFIRMED,11.32,8.42,1.16,2.90,0.79,0.81,0.02,68.50,2.4%,7.6%,-33.0%,True,Technology,10.0,1.2,10.8,0.0,12.0,0.0,5.0
-52.5,TW,108.87,13.6%,HIGH,MIXED,RATE,MID,"margins expanding, estimates not yet moving",CONFIRMED,25.98,23.68,1.94,2.30,0.55,-0.07,-0.62,62.00,1.7%,11.3%,-28.7%,True,Financial Services,20.0,0.2,1.7,0.0,12.0,0.0,5.0
-52.4,MTG,30.99,0.0%,HIGH,MIXED,RATE,TROUGH,"margins contracting, estimates stabilising",WATCH,9.68,9.04,,0.60,3.49,3.82,0.33,60.30,0.3%,1.8%,-2.8%,True,Financial Services,20.0,5.8,6.0,0.0,5.0,0.0,2.0
-51.3,NLY,23.04,5.2%,MEDIUM,CYCLICAL,RATE,EARLY,estimates rising (no margin trend data),WATCH,5.57,7.41,,-1.80,4.41,4.03,-0.38,50.20,-0.5%,-0.2%,-35.6%,True,Real Estate,10.0,6.4,6.6,8.0,5.0,0.0,2.0
-51.3,PCTY,157.93,8.9%,HIGH,MIXED,ECONOMIC,MID,"margins expanding, estimates not yet moving",WATCH,32.03,16.31,1.28,15.70,0.39,0.47,0.08,69.60,3.0%,15.5%,-49.8%,True,Technology,20.0,0.7,7.3,0.0,5.0,0.0,5.0
-51.2,LECO,284.89,7.0%,MEDIUM,CYCLICAL,ECONOMIC,TROUGH,fwd<trail PE + eps30=3.9>1.5 + low margins → TROUGH,WATCH,28.49,22.76,1.82,5.70,3.78,3.85,0.07,57.70,1.1%,13.9%,-8.1%,True,Industrials,10.0,5.9,0.0,15.0,5.0,0.0,2.0
-50.8,A,153.84,13.4%,HIGH,MIXED,ECONOMIC,TROUGH,"margins contracting, estimates stabilising",WATCH,30.28,22.79,1.41,7.50,2.30,2.08,-0.22,61.00,-3.2%,10.9%,-14.3%,True,Healthcare,20.0,3.3,4.3,0.0,5.0,0.0,5.0
-50.8,SHG,79.15,26.3%,MEDIUM,DEFENSIVE,,EARLY,fwd<trail PE + healthy margins (op_m=53%) → grower (EARLY),CONFIRMED,10.04,8.48,,1.60,4.85,4.85,0.00,66.00,6.1%,9.4%,-1.1%,True,Financial Services,10.0,7.4,6.2,0.0,12.0,0.0,2.0
-50.6,GRMN,285.19,1.8%,HIGH,MIXED,CAPEX,EARLY,fwd<trail PE + healthy margins (op_m=30%) → grower (EARLY),WATCH,29.40,25.96,3.54,3.40,8.39,6.42,-1.97,47.80,-3.3%,-4.2%,-9.3%,True,Technology,20.0,10.9,-0.4,0.0,5.0,0.0,2.0
-50.5,ROKU,157.68,3.0%,MEDIUM,CYCLICAL,ECONOMIC,EARLY,margins expanding + est rising (op_m=12%),WATCH,66.53,40.19,0.89,26.30,10.99,6.45,-4.54,65.50,0.1%,8.7%,-57.9%,True,Communication Services,10.0,12.3,0.1,8.0,5.0,0.0,2.0
-50.4,PTC,157.15,10.3%,HIGH,MIXED,ECONOMIC,MID,margins expanding + est rising (op_m=28%),WATCH,15.24,17.68,,-2.40,2.87,3.00,0.13,65.70,1.6%,15.3%,-28.5%,True,Technology,20.0,4.6,2.7,0.0,5.0,0.0,5.0
-50.4,SBUX,107.85,4.1%,MEDIUM,CYCLICAL,ECONOMIC,TROUGH,"margins contracting, estimates stabilising",WATCH,62.34,34.62,,27.70,3.60,3.42,-0.18,55.40,0.7%,1.9%,-10.7%,True,Consumer Cyclical,10.0,5.3,0.0,15.0,5.0,0.0,2.0
-50.4,YUMC,45.02,37.8%,MEDIUM,CYCLICAL,ECONOMIC,TROUGH,fwd<trail PE + eps30=3.4>1.5 + low margins → TROUGH,WATCH,16.49,13.33,1.12,3.20,3.60,3.40,-0.20,41.00,-9.1%,-3.1%,-30.4%,True,Consumer Cyclical,10.0,5.3,0.0,15.0,5.0,0.0,2.0
-49.4,EXE,98.16,27.9%,MEDIUM,CYCLICAL,COMMODITY,MID,"margins expanding, estimates not yet moving",CONFIRMED,8.46,11.00,,-2.50,-8.79,5.95,14.74,62.30,2.1%,6.2%,-22.5%,True,Energy,10.0,9.3,5.3,-10.0,12.0,8.0,2.0
-49.1,XOM,156.71,8.3%,MEDIUM,CYCLICAL,COMMODITY,TROUGH,"margins contracting, estimates stabilising",WATCH,20.17,14.72,1.22,5.40,1.30,0.66,-0.64,48.30,-5.1%,-0.2%,-11.2%,True,Energy,10.0,1.4,0.0,15.0,5.0,0.0,5.0
-48.3,KKR,108.68,17.8%,MEDIUM,CYCLICAL,RATE,TROUGH,"margins contracting, estimates stabilising",WATCH,34.72,14.71,0.56,20.00,-0.10,0.50,0.60,55.20,0.2%,7.6%,-36.2%,True,Financial Services,10.0,0.8,0.0,15.0,5.0,0.0,5.0
-48.3,WSM,235.09,5.3%,MEDIUM,CYCLICAL,ECONOMIC,TROUGH,fwd<trail PE + eps30=2.3>1.5 + low margins → TROUGH,WATCH,24.09,22.43,3.11,1.70,2.73,2.33,-0.40,47.30,-1.1%,0.8%,-7.8%,True,Consumer Cyclical,10.0,3.8,0.0,15.0,5.0,0.0,2.0
-48.2,TYL,377.94,12.9%,MEDIUM,MIXED,ECONOMIC,EARLY,margins expanding + est rising (op_m=15%),CONFIRMED,49.73,24.62,1.88,25.10,6.91,3.50,-3.41,72.70,7.8%,16.9%,-42.9%,True,Technology,10.0,7.2,1.5,0.0,12.0,0.0,5.0
-48.1,EXLS,38.40,15.6%,MEDIUM,DEFENSIVE,,TROUGH,fwd<trail PE + eps30=3.0>1.5 + low margins → TROUGH,CONFIRMED,24.30,14.79,,9.50,3.49,2.98,-0.51,73.90,2.3%,11.8%,-26.8%,True,Technology,10.0,4.8,3.8,0.0,12.0,0.0,5.0
-47.9,SMFG,25.92,11.3%,MEDIUM,DEFENSIVE,,EARLY,estimates rising (no margin trend data),CONFIRMED,15.43,,,,9.13,3.61,-5.52,55.90,3.5%,0.5%,-2.8%,True,Financial Services,10.0,8.5,0.0,0.0,12.0,0.0,5.0
-47.9,IEX,230.28,10.5%,MEDIUM,CYCLICAL,ECONOMIC,EARLY,fwd<trail PE + healthy margins (op_m=22%) → grower (EARLY),WATCH,33.13,24.03,1.91,9.10,3.84,3.81,-0.03,46.60,-1.8%,-1.5%,-6.5%,True,Industrials,10.0,5.9,1.6,8.0,5.0,0.0,5.0
-47.7,STT,193.33,3.2%,MEDIUM,MIXED,RATE,EARLY,fwd<trail PE + healthy margins (op_m=28%) → grower (EARLY),WATCH,17.06,12.63,,4.40,11.09,7.82,-3.27,62.00,3.3%,5.8%,-1.3%,True,Financial Services,10.0,13.7,4.6,0.0,5.0,0.0,2.0
-47.7,GEF,84.08,3.7%,MEDIUM,MIXED,ECONOMIC,TROUGH,"margins contracting, estimates stabilising",WATCH,34.74,17.63,0.77,17.10,6.00,6.00,0.00,48.70,-4.4%,-3.7%,-7.2%,True,Consumer Cyclical,10.0,9.2,9.1,0.0,5.0,0.0,2.0
-47.5,ARGX,1023.21,14.9%,HIGH,MIXED,ECONOMIC,MID,margins expanding + est rising (op_m=32%),WATCH,38.91,26.08,1.67,12.80,5.23,0.47,-4.76,63.00,-1.6%,17.3%,-3.6%,True,Healthcare,20.0,3.3,1.9,0.0,5.0,0.0,5.0
-47.0,BAC,62.32,10.4%,MEDIUM,MIXED,RATE,EARLY,fwd<trail PE + healthy margins (op_m=38%) → grower (EARLY),WATCH,14.39,11.77,1.04,2.60,5.10,1.98,-3.12,50.80,1.0%,1.0%,-4.5%,True,Financial Services,10.0,4.7,10.1,0.0,5.0,0.0,5.0
-47.0,INCY,124.37,2.2%,HIGH,MIXED,ECONOMIC,MID,"margins expanding, estimates not yet moving",WATCH,15.84,13.91,,1.90,-0.92,2.23,3.15,53.50,-2.7%,1.1%,-6.2%,True,Healthcare,20.0,3.6,4.2,0.0,5.0,0.0,2.0
-46.8,UBER,78.82,29.2%,HIGH,MIXED,ECONOMIC,EARLY,margins expanding + est rising (op_m=13%),WATCH,17.29,17.97,,-0.70,4.67,2.61,-2.06,58.40,0.0%,12.0%,-22.7%,True,Technology,20.0,5.1,2.6,0.0,5.0,0.0,2.0
-46.6,JKHY,169.73,12.8%,HIGH,DEFENSIVE,,MID,margins expanding + est rising (op_m=22%),WATCH,24.32,21.65,,2.70,2.30,2.01,-0.29,65.20,2.1%,10.0%,-20.2%,True,Technology,20.0,3.2,1.3,0.0,5.0,0.0,5.0
-46.4,BAM,52.12,9.7%,HIGH,MIXED,RATE,MID,"margins expanding, estimates not yet moving",WATCH,29.95,24.01,1.35,5.90,-0.46,0.07,0.53,53.70,-0.3%,8.7%,-18.7%,True,Financial Services,20.0,0.3,4.1,0.0,5.0,0.0,5.0
-46.0,NWG,18.38,17.2%,MEDIUM,MIXED,RATE,MID,fwd<trail PE + healthy margins (op_m=53%) → grower (MID),WATCH,9.05,8.49,1.57,0.60,-1.84,3.09,4.93,46.80,-1.3%,-0.8%,-5.4%,True,Financial Services,10.0,5.1,9.0,0.0,5.0,0.0,5.0
-46.0,AFRM,77.76,24.1%,MEDIUM,MIXED,RATE,EARLY,margins expanding + est rising (op_m=13%),CONFIRMED,14.06,16.06,,-2.00,2.35,2.41,0.06,53.40,0.9%,6.2%,-56.0%,True,Financial Services,10.0,3.7,3.4,0.0,12.0,0.0,5.0
-45.8,GIB,74.77,11.3%,MEDIUM,DEFENSIVE,,MID,fwd<trail PE but eps30=1.1 flat/weak → MID,CONFIRMED,12.89,10.59,,2.30,0.70,1.05,0.35,57.90,-0.3%,2.1%,-39.1%,True,Technology,10.0,1.5,5.4,0.0,12.0,0.0,5.0
-45.4,WDAY,204.72,0.4%,MEDIUM,MIXED,ECONOMIC,EARLY,margins expanding + est rising (op_m=12%),WATCH,39.37,15.52,0.76,23.90,4.49,4.34,-0.15,66.20,2.4%,29.5%,-34.2%,True,Technology,10.0,6.7,9.9,0.0,5.0,0.0,2.0
-45.4,RGA,245.54,10.9%,MEDIUM,DEFENSIVE,,EARLY,margins expanding + est rising (op_m=11%),WATCH,10.81,8.27,1.14,2.50,2.27,1.49,-0.78,57.80,1.0%,3.1%,-2.2%,True,Financial Services,10.0,2.7,10.9,0.0,5.0,0.0,5.0
-45.2,V,381.60,9.5%,HIGH,DEFENSIVE,,MID,fwd<trail PE + healthy margins (op_m=66%) → grower (MID),WATCH,32.48,25.43,1.72,7.00,1.09,0.87,-0.22,65.50,2.9%,4.2%,-1.0%,True,Financial Services,20.0,1.5,2.0,0.0,5.0,0.0,5.0
-45.1,SCHW,110.16,13.4%,MEDIUM,DEFENSIVE,,EARLY,fwd<trail PE + healthy margins (op_m=52%) → grower (EARLY),WATCH,20.07,14.11,1.09,6.00,8.12,0.10,-8.02,56.90,-1.9%,5.6%,-3.8%,True,Financial Services,10.0,4.4,9.0,0.0,5.0,0.0,5.0
-45.1,SNY,44.82,19.9%,MEDIUM,DEFENSIVE,,MID,margins expanding + est rising (op_m=21%),WATCH,23.71,8.33,,15.40,3.74,4.68,0.94,53.30,-2.2%,4.5%,-25.4%,True,Healthcare,10.0,7.1,6.3,0.0,5.0,0.0,5.0
-44.6,MA,595.30,12.5%,HIGH,DEFENSIVE,,MID,"margins expanding, estimates not yet moving",WATCH,32.78,25.85,1.81,6.90,1.15,1.03,-0.12,67.40,2.5%,3.1%,-1.1%,True,Financial Services,20.0,1.6,1.4,0.0,5.0,0.0,5.0
-44.4,RTX,211.71,10.9%,MEDIUM,CYCLICAL,ECONOMIC,EARLY,margins expanding + est rising (op_m=13%),WATCH,37.34,26.95,2.64,10.40,3.90,3.53,-0.37,47.90,0.9%,-1.2%,-6.7%,True,Industrials,10.0,5.6,-0.7,8.0,5.0,0.0,5.0
-44.1,CBOE,310.45,1.5%,HIGH,MIXED,RATE,MID,margins expanding + est rising (op_m=35%),WATCH,23.94,20.37,2.67,3.60,4.66,1.48,-3.18,61.20,3.2%,4.7%,-16.4%,True,Financial Services,20.0,4.0,1.7,0.0,5.0,0.0,2.0
-43.6,TRI,106.22,15.1%,MEDIUM,MIXED,ECONOMIC,MID,fwd<trail PE + healthy margins (op_m=28%) → grower (MID),CONFIRMED,28.03,20.90,1.59,7.10,0.54,0.70,0.16,56.40,0.7%,7.5%,-51.4%,True,Industrials,10.0,1.1,4.2,0.0,12.0,0.0,5.0
-43.5,OVV,64.59,14.8%,MEDIUM,MIXED,COMMODITY,MID,fwd<trail PE + healthy margins (op_m=36%) → grower (MID),WATCH,18.04,8.80,1.85,9.20,-7.12,0.51,7.63,57.30,-3.3%,4.8%,-4.2%,True,Energy,10.0,4.6,7.6,0.0,5.0,0.0,5.0
-43.3,VRTX,541.69,4.0%,HIGH,MIXED,ECONOMIC,MID,margins expanding + est rising (op_m=38%),WATCH,31.55,24.63,1.90,6.90,2.30,2.33,0.03,61.40,-1.2%,12.4%,-2.5%,True,Healthcare,20.0,3.6,1.5,0.0,5.0,0.0,2.0
-43.3,BNY,162.50,3.0%,MEDIUM,MIXED,RATE,EARLY,fwd<trail PE + healthy margins (op_m=40%) → grower (EARLY),WATCH,18.98,15.86,1.34,3.10,6.56,4.44,-2.12,57.70,2.5%,4.1%,-1.9%,True,Financial Services,10.0,7.9,7.2,0.0,5.0,0.0,2.0
-42.1,BLK,1164.48,13.4%,MEDIUM,MIXED,RATE,TROUGH,"margins contracting, estimates stabilising",WATCH,27.93,18.11,1.13,9.80,6.04,0.64,-5.40,59.90,0.7%,6.0%,-4.5%,True,Financial Services,10.0,3.9,7.3,0.0,5.0,0.0,5.0
-42.1,AIZ,285.65,15.5%,MEDIUM,MIXED,RATE,TROUGH,fwd<trail PE + eps30=3.9>1.5 + low margins → TROUGH,WATCH,13.68,12.19,2.16,1.50,4.29,3.87,-0.42,54.60,0.6%,1.1%,-6.0%,True,Financial Services,10.0,6.2,5.0,0.0,5.0,0.0,5.0
-42.1,GMED,82.97,24.4%,MEDIUM,MIXED,ECONOMIC,MID,margins expanding + est rising (op_m=25%),WATCH,21.22,15.37,,5.80,4.97,4.92,-0.05,49.60,-4.5%,3.4%,-18.2%,True,Healthcare,10.0,7.6,3.6,0.0,5.0,0.0,5.0
-41.9,ABBV,255.48,8.3%,MEDIUM,MIXED,ECONOMIC,MID,"margins expanding, estimates not yet moving",WATCH,71.97,15.69,0.42,56.30,0.32,-0.30,-0.62,50.40,-3.6%,-0.8%,-4.5%,True,Healthcare,10.0,0.0,11.0,0.0,5.0,0.0,5.0
-41.9,ROP,426.20,4.5%,MEDIUM,DEFENSIVE,,MID,fwd<trail PE + healthy margins (op_m=28%) → grower (MID),CONFIRMED,17.76,17.54,1.83,0.20,1.66,1.74,0.08,71.40,3.5%,9.5%,-28.4%,True,Technology,10.0,2.6,4.4,0.0,12.0,0.0,2.0
-41.2,CDE,21.13,10.4%,HIGH,CYCLICAL,COMMODITY,MID,"margins expanding, estimates not yet moving",WATCH,17.76,10.26,3.75,7.50,-8.16,0.23,8.39,62.70,0.8%,37.2%,-23.9%,True,Basic Materials,20.0,5.0,5.5,-10.0,5.0,0.0,5.0
-41.2,AR,38.45,28.5%,MEDIUM,MIXED,COMMODITY,MID,fwd<trail PE + healthy margins (op_m=26%) → grower (MID),WATCH,11.02,8.90,0.51,2.10,,,,63.20,1.3%,8.9%,-21.2%,True,Energy,10.0,0.0,13.5,0.0,5.0,0.0,2.0
-41.0,DXCM,90.82,3.6%,HIGH,MIXED,ECONOMIC,MID,margins expanding + est rising (op_m=24%),WATCH,35.90,29.07,1.68,6.80,2.27,1.51,-0.76,63.50,-1.7%,21.8%,-44.9%,True,Healthcare,20.0,2.7,0.7,0.0,5.0,0.0,2.0
-40.9,ZBH,100.91,6.6%,MEDIUM,DEFENSIVE,,TROUGH,"margins contracting, estimates stabilising",WATCH,24.49,11.13,0.67,13.40,0.83,0.89,0.06,59.00,-0.1%,6.3%,-32.4%,True,Healthcare,10.0,1.3,12.0,0.0,5.0,0.0,2.0
-40.9,PINS,23.19,25.0%,MEDIUM,MIXED,ECONOMIC,MID,"margins expanding, estimates not yet moving",WATCH,68.21,9.65,0.36,58.60,,,,49.30,-0.9%,-5.1%,-64.9%,True,Communication Services,10.0,0.0,13.3,0.0,5.0,0.0,2.0
-40.8,DT,53.67,9.7%,MEDIUM,DEFENSIVE,,MID,"margins expanding, estimates not yet moving",CONFIRMED,107.34,23.34,,84.00,1.74,1.70,-0.04,70.10,8.9%,21.7%,-33.0%,True,Technology,10.0,2.6,0.6,0.0,12.0,0.0,5.0
-40.6,CFR,161.69,5.3%,MEDIUM,DEFENSIVE,,EARLY,fwd<trail PE + healthy margins (op_m=37%) → grower (EARLY),WATCH,15.30,13.81,3.55,1.50,6.37,5.49,-0.88,43.50,-1.5%,-1.1%,-5.3%,True,Financial Services,10.0,8.9,4.2,0.0,5.0,0.0,2.0
-40.5,BKNG,205.63,16.0%,HIGH,CYCLICAL,ECONOMIC,MID,"margins expanding, estimates not yet moving",WATCH,22.82,16.61,0.89,6.20,0.52,0.76,0.24,53.10,-1.9%,6.4%,-12.0%,True,Consumer Cyclical,20.0,1.1,8.9,-10.0,5.0,0.0,5.0
-40.2,DHR,216.07,5.5%,MEDIUM,MIXED,ECONOMIC,TROUGH,"margins contracting, estimates stabilising",CONFIRMED,38.45,23.24,1.41,15.20,2.27,0.35,-1.92,63.60,-1.3%,10.1%,-27.0%,True,Healthcare,10.0,1.6,4.2,0.0,12.0,0.0,2.0
-40.0,ESNT,68.90,8.4%,MEDIUM,MIXED,RATE,TROUGH,"margins contracting, estimates stabilising",WATCH,9.61,8.77,,0.80,1.39,2.36,0.97,57.40,1.2%,3.7%,-2.1%,True,Financial Services,10.0,3.5,6.1,0.0,5.0,0.0,5.0
-39.8,FOXA,68.42,10.1%,MEDIUM,DEFENSIVE,,EARLY,fwd<trail PE + healthy margins (op_m=25%) → grower (EARLY),WATCH,17.82,11.73,,6.10,5.32,1.65,-3.67,63.10,-0.2%,16.3%,-10.4%,True,Communication Services,10.0,4.5,5.0,0.0,5.0,0.0,5.0
-39.8,THG,227.67,3.9%,MEDIUM,MIXED,RATE,EARLY,margins expanding + est rising (op_m=15%),WATCH,10.89,11.66,,-0.80,5.04,4.85,-0.19,58.10,2.0%,-1.1%,-3.6%,True,Financial Services,10.0,7.5,5.0,0.0,5.0,0.0,2.0
-38.9,FAF,74.47,17.7%,MEDIUM,MIXED,RATE,MID,"margins expanding, estimates not yet moving",WATCH,10.33,10.08,2.98,0.20,1.67,2.15,0.48,56.50,3.8%,-1.4%,-8.7%,True,Financial Services,10.0,3.2,5.6,0.0,5.0,0.0,5.0
-38.7,WFC,86.69,15.6%,MEDIUM,MIXED,RATE,MID,fwd<trail PE + healthy margins (op_m=37%) → grower (MID),WATCH,12.60,10.97,1.61,1.60,0.96,0.24,-0.72,52.40,3.4%,1.5%,-11.3%,True,Financial Services,10.0,0.8,7.9,0.0,5.0,0.0,5.0
-38.7,WTW,343.75,10.5%,MEDIUM,MIXED,RATE,TROUGH,"margins contracting, estimates stabilising",WATCH,21.27,15.02,,6.30,3.30,3.27,-0.03,62.50,0.5%,2.3%,-2.6%,True,Financial Services,10.0,5.0,3.7,0.0,5.0,0.0,5.0
-38.5,JPM,357.62,4.7%,MEDIUM,MIXED,RATE,EARLY,fwd<trail PE + healthy margins (op_m=50%) → grower (EARLY),WATCH,15.32,14.30,1.73,1.00,5.82,2.27,-3.55,55.20,1.7%,1.9%,-2.4%,True,Financial Services,10.0,5.4,6.1,0.0,5.0,0.0,2.0
-36.7,PH,995.02,16.7%,HIGH,CYCLICAL,ECONOMIC,MID,margins expanding + est rising (op_m=23%),WATCH,34.96,25.39,3.39,9.60,5.20,4.50,-0.70,45.20,-0.7%,3.4%,-9.5%,True,Industrials,20.0,7.3,-0.1,-10.0,5.0,0.0,5.0
-36.5,SKHY,161.04,53.4%,HIGH,CYCLICAL,COMMODITY,MID,"margins expanding, estimates not yet moving",WATCH,9.80,4.78,0.31,5.00,,-16.72,,51.20,,,-9.8%,,Technology,20.0,0.0,15.0,-10.0,5.0,0.0,-3.0
-36.5,UI,599.35,22.5%,HIGH,CYCLICAL,CAPEX,MID,margins expanding + est rising (op_m=36%),WATCH,37.89,30.61,1.10,7.30,2.79,2.79,0.00,61.10,7.2%,12.4%,-45.5%,True,Technology,20.0,4.3,2.7,-10.0,5.0,0.0,5.0
-36.3,ORI,42.07,3.4%,MEDIUM,DEFENSIVE,,MID,no clear directional signal,WATCH,9.23,12.75,1.39,-3.50,-1.00,1.02,2.02,47.80,1.2%,-3.0%,-10.0%,True,Financial Services,10.0,1.7,8.2,0.0,5.0,0.0,2.0
-36.0,HLN,10.11,18.6%,MEDIUM,DEFENSIVE,,MID,"margins expanding, estimates not yet moving",WATCH,20.63,16.23,,4.40,1.62,2.25,0.63,57.90,1.1%,0.0%,-11.5%,True,Healthcare,10.0,3.4,3.3,0.0,5.0,0.0,5.0
-36.0,GEHC,71.72,15.0%,MEDIUM,DEFENSIVE,,TROUGH,"margins contracting, estimates stabilising",WATCH,16.53,13.26,2.00,3.30,0.90,0.89,-0.01,52.70,-4.1%,2.5%,-24.3%,True,Healthcare,10.0,1.4,5.3,0.0,5.0,0.0,5.0
-35.9,LH,335.11,1.9%,MEDIUM,MIXED,ECONOMIC,MID,"margins expanding, estimates not yet moving",WATCH,27.70,16.93,1.41,10.80,1.83,1.99,0.16,69.60,-0.4%,6.2%,-2.0%,True,Healthcare,10.0,3.1,6.5,0.0,5.0,0.0,2.0
-35.6,NDAQ,99.31,10.6%,MEDIUM,MIXED,RATE,MID,margins expanding + est rising (op_m=49%),WATCH,28.95,21.23,1.87,7.70,5.61,0.49,-5.12,69.10,1.1%,4.4%,-2.4%,True,Financial Services,10.0,3.5,2.9,0.0,5.0,0.0,5.0
-35.4,BRK-B,505.00,8.4%,MEDIUM,MIXED,RATE,TROUGH,"margins contracting, estimates stabilising",WATCH,12.71,22.76,,-10.00,4.16,3.16,-1.00,50.80,1.8%,-0.9%,-6.8%,True,Financial Services,10.0,5.4,0.8,0.0,5.0,0.0,5.0
-35.2,SSB,105.98,13.1%,MEDIUM,DEFENSIVE,,MID,fwd<trail PE + healthy margins (op_m=51%) → grower (MID),WATCH,11.13,10.21,,0.90,-0.65,0.39,1.04,47.50,-0.8%,0.7%,-7.2%,True,Financial Services,10.0,0.6,5.5,0.0,5.0,0.0,5.0
-35.0,AFG,143.62,8.5%,MEDIUM,DEFENSIVE,,MID,fwd<trail PE but eps30=0.7 flat/weak → MID,WATCH,12.54,11.83,2.30,0.70,0.58,0.65,0.07,50.40,-0.1%,1.4%,-5.7%,True,Financial Services,10.0,1.0,4.9,0.0,5.0,0.0,5.0
-34.6,BIIB,218.50,8.1%,MEDIUM,MIXED,ECONOMIC,MID,"margins expanding, estimates not yet moving",WATCH,38.74,13.21,,25.50,-0.34,0.74,1.08,58.30,0.8%,5.1%,-36.0%,True,Healthcare,10.0,1.2,4.4,0.0,5.0,0.0,5.0
-34.2,SYK,330.69,15.7%,MEDIUM,DEFENSIVE,,MID,fwd<trail PE + healthy margins (op_m=27%) → grower (MID),WATCH,34.23,19.74,1.52,14.50,0.22,0.22,0.00,49.20,0.4%,-5.0%,-18.6%,True,Healthcare,10.0,0.3,5.0,0.0,5.0,0.0,5.0
-33.5,VOYA,102.55,5.4%,MEDIUM,MIXED,RATE,MID,fwd<trail PE but eps30=0.4 flat/weak → MID,WATCH,17.29,9.03,,8.30,2.57,0.43,-2.14,62.30,4.9%,2.3%,-1.2%,True,Financial Services,10.0,1.8,6.0,0.0,5.0,0.0,2.0
-33.3,DGX,242.76,1.3%,MEDIUM,DEFENSIVE,,TROUGH,fwd<trail PE + eps30=3.3>1.5 + low margins → TROUGH,WATCH,25.77,20.13,2.04,5.60,3.47,3.32,-0.15,67.40,-0.7%,3.6%,-1.8%,True,Healthcare,10.0,5.2,2.5,0.0,5.0,0.0,2.0
-33.2,ZM,98.43,20.1%,MEDIUM,MIXED,ECONOMIC,MID,"margins expanding, estimates not yet moving",WATCH,9.14,15.53,,-6.40,0.68,0.61,-0.07,47.40,-8.4%,6.6%,-67.9%,True,Technology,10.0,1.0,3.6,0.0,5.0,0.0,5.0
-33.2,STE,233.78,12.6%,MEDIUM,DEFENSIVE,,MID,"margins expanding, estimates not yet moving",WATCH,28.58,19.09,1.94,9.50,1.22,0.55,-0.67,54.20,-1.7%,1.1%,-13.2%,True,Healthcare,10.0,1.2,3.4,0.0,5.0,0.0,5.0
-33.1,UBSI,47.60,5.7%,MEDIUM,DEFENSIVE,,MID,fwd<trail PE + healthy margins (op_m=53%) → grower (MID),WATCH,12.97,12.34,1.95,0.60,1.70,0.74,-0.96,46.50,-0.4%,-1.6%,-4.1%,True,Financial Services,10.0,1.6,5.9,0.0,5.0,0.0,2.0
-32.9,VEEV,276.69,6.3%,MEDIUM,MIXED,ECONOMIC,MID,margins expanding + est rising (op_m=30%),WATCH,45.43,27.02,1.26,18.40,3.63,2.07,-1.56,74.90,11.6%,37.3%,-17.7%,True,Healthcare,10.0,4.0,3.4,0.0,5.0,0.0,2.0
-32.7,BRO,73.31,4.6%,MEDIUM,DEFENSIVE,,TROUGH,"margins contracting, estimates stabilising",WATCH,23.42,15.19,1.51,8.20,-0.81,0.05,0.86,58.00,0.5%,3.4%,-41.7%,True,Financial Services,10.0,0.5,6.7,0.0,5.0,0.0,2.0
-32.4,TWLO,237.78,6.0%,MEDIUM,MIXED,CAPEX,TROUGH,"margins contracting, estimates stabilising",WATCH,32.89,35.10,0.42,-2.20,2.63,1.92,-0.71,59.60,5.5%,24.5%,-36.2%,True,Technology,10.0,3.3,3.7,0.0,5.0,0.0,2.0
-32.3,ICE,162.33,14.2%,MEDIUM,MIXED,RATE,MID,"margins expanding, estimates not yet moving",WATCH,22.90,18.44,2.96,4.50,0.22,0.94,0.72,72.10,0.7%,3.9%,-14.3%,True,Financial Services,10.0,1.4,2.5,0.0,5.0,0.0,5.0
-31.7,NFLX,81.72,14.6%,HIGH,CYCLICAL,ECONOMIC,MID,"margins expanding, estimates not yet moving",WATCH,25.70,21.39,1.79,4.30,-0.33,0.19,0.52,62.60,2.7%,11.7%,-39.1%,True,Communication Services,20.0,0.3,3.2,-10.0,5.0,0.0,5.0
-31.5,CHE,523.38,5.5%,MEDIUM,DEFENSIVE,,TROUGH,"margins contracting, estimates stabilising",WATCH,26.31,19.01,2.11,7.30,2.29,2.39,0.10,47.50,-3.2%,-2.1%,-20.1%,True,Healthcare,10.0,3.6,2.7,0.0,5.0,0.0,2.0
-31.1,PBR-A,16.77,28.6%,HIGH,CYCLICAL,COMMODITY,LATE,margins contracting + estimates falling,CONFIRMED,4.23,6.82,,-2.60,-6.09,4.29,10.38,55.10,-2.6%,-0.5%,-16.4%,True,Energy,20.0,7.2,6.8,-25.0,12.0,0.0,2.0
-30.9,AJG,267.56,9.0%,MEDIUM,DEFENSIVE,,TROUGH,"margins contracting, estimates stabilising",WATCH,44.45,17.97,,26.50,0.27,0.14,-0.13,60.40,1.4%,4.3%,-23.8%,True,Financial Services,10.0,0.3,2.6,0.0,5.0,0.0,5.0
-30.5,BX,142.39,1.2%,MEDIUM,MIXED,RATE,MID,fwd<trail PE + healthy margins (op_m=54%) → grower (MID),WATCH,31.85,19.01,1.69,12.80,-0.47,0.70,1.17,56.90,-0.7%,11.2%,-29.1%,True,Financial Services,10.0,1.1,4.5,0.0,5.0,0.0,2.0
-30.0,MRSH,192.64,7.5%,MEDIUM,DEFENSIVE,,MID,fwd<trail PE + healthy margins (op_m=26%) → grower (MID),WATCH,23.52,16.88,1.83,6.60,0.82,0.02,-0.80,57.60,0.3%,0.6%,-22.3%,True,Financial Services,10.0,0.5,4.7,0.0,5.0,0.0,2.0
-29.8,SNPS,442.61,23.1%,MEDIUM,MIXED,CAPEX,TROUGH,"margins contracting, estimates stabilising",WATCH,77.51,25.28,2.50,52.20,1.72,1.32,-0.40,60.70,11.2%,18.9%,-32.1%,True,Technology,10.0,2.2,-0.1,0.0,5.0,0.0,5.0
-29.4,PGR,218.64,6.1%,MEDIUM,MIXED,RATE,MID,"margins expanding, estimates not yet moving",WATCH,10.96,13.42,,-2.50,0.37,0.33,-0.04,53.80,-0.3%,2.5%,-25.4%,True,Financial Services,10.0,0.5,4.3,0.0,5.0,0.0,2.0
-29.4,VRSN,291.93,8.9%,MEDIUM,DEFENSIVE,,EARLY,fwd<trail PE + healthy margins (op_m=68%) → grower (EARLY),WATCH,31.73,26.57,2.99,5.20,4.40,0.07,-4.33,56.80,3.6%,1.9%,-6.6%,True,Technology,10.0,2.4,-0.6,0.0,5.0,0.0,5.0
-29.3,NWSA,30.97,16.8%,MEDIUM,MIXED,ECONOMIC,MID,fwd<trail PE but eps30=? flat/weak → MID,WATCH,30.07,20.49,,9.60,,,,68.10,1.9%,10.2%,-2.2%,True,Communication Services,10.0,0.0,1.7,0.0,5.0,0.0,5.0
-28.6,OKTA,166.23,8.5%,MEDIUM,MIXED,CAPEX,EARLY,margins expanding + est rising (op_m=13%),WATCH,100.14,37.97,1.64,62.20,2.47,2.26,-0.21,64.70,23.0%,18.4%,-39.8%,True,Technology,10.0,3.6,-2.4,0.0,5.0,0.0,5.0
-27.9,MCO,514.95,8.8%,HIGH,CYCLICAL,RATE,MID,"margins expanding, estimates not yet moving",WATCH,32.67,27.23,2.14,5.40,1.70,0.44,-1.26,65.70,2.3%,6.8%,-5.8%,True,Financial Services,20.0,1.3,-0.6,-10.0,5.0,0.0,5.0
-27.5,SHOP,152.90,11.9%,MEDIUM,MIXED,ECONOMIC,TROUGH,"margins contracting, estimates stabilising",WATCH,103.31,62.34,2.61,41.00,5.10,5.20,0.10,61.20,2.5%,24.9%,-16.1%,True,Technology,10.0,7.9,-7.5,0.0,5.0,0.0,5.0
-27.1,EW,90.21,11.9%,MEDIUM,MIXED,ECONOMIC,TROUGH,"margins contracting, estimates stabilising",WATCH,53.70,26.71,,27.00,0.37,0.46,0.09,51.50,0.5%,3.8%,-31.5%,True,Healthcare,10.0,0.7,-0.6,0.0,5.0,0.0,5.0
-26.6,ATR,132.99,27.9%,MEDIUM,DEFENSIVE,,MID,fwd<trail PE but eps30=0.8 flat/weak → MID,WATCH,23.96,21.05,,2.90,0.71,0.81,0.10,50.90,-1.3%,-0.7%,-25.3%,True,Healthcare,10.0,1.2,1.5,0.0,5.0,0.0,2.0
-26.5,RACE,420.54,9.8%,HIGH,CYCLICAL,ECONOMIC,MID,margins expanding + est rising (op_m=31%),WATCH,38.90,32.94,3.87,6.00,2.09,1.44,-0.65,58.80,-3.7%,5.7%,-19.0%,True,Consumer Cyclical,20.0,2.6,-3.0,-10.0,5.0,0.0,5.0
-26.1,PM,191.89,6.2%,MEDIUM,DEFENSIVE,,MID,"margins expanding, estimates not yet moving",WATCH,26.32,20.93,,5.40,0.35,0.48,0.13,53.70,1.9%,-0.1%,-7.6%,True,Consumer Defensive,10.0,0.8,1.5,0.0,5.0,0.0,2.0
-25.7,TMO,622.18,1.5%,MEDIUM,DEFENSIVE,,MID,fwd<trail PE but eps30=0.1 flat/weak → MID,WATCH,33.45,22.62,2.06,10.80,0.78,0.09,-0.69,66.20,-1.1%,7.9%,-7.5%,True,Healthcare,10.0,0.5,1.5,0.0,5.0,0.0,2.0
-25.0,VRSK,191.77,24.0%,MEDIUM,CYCLICAL,ECONOMIC,MID,"margins expanding, estimates not yet moving",CONFIRMED,29.50,22.05,,7.50,0.45,0.20,-0.25,54.10,2.3%,-4.3%,-40.6%,True,Industrials,10.0,0.4,1.1,-10.0,12.0,0.0,5.0
-23.6,HSBC,103.53,2.5%,MEDIUM,DEFENSIVE,,LATE,fwd<trail PE + eps30=-4.2<0 → LATE,WATCH,14.79,10.93,1.01,3.90,1.81,-4.21,-6.02,53.10,-0.6%,-3.3%,-4.1%,True,Financial Services,10.0,0.0,10.5,-10.0,5.0,0.0,2.0
-23.1,UBS,54.90,0.2%,MEDIUM,MIXED,RATE,LATE,fwd<trail PE + eps30=-0.4<0 → LATE,WATCH,18.67,13.47,0.89,5.20,,-0.41,,64.80,3.0%,2.8%,-0.4%,True,Financial Services,10.0,0.0,10.1,-10.0,5.0,0.0,2.0
-23.1,WTS,366.34,7.4%,MEDIUM,CYCLICAL,ECONOMIC,MID,margins expanding + est rising (op_m=21%),WATCH,31.94,26.11,3.81,5.80,7.81,6.34,-1.47,48.50,-2.5%,6.5%,-7.1%,True,Industrials,10.0,10.5,-0.4,-10.0,5.0,0.0,2.0
-21.3,OSK,153.96,9.8%,MEDIUM,CYCLICAL,CAPEX,MID,fwd<trail PE but eps30=0.3 flat/weak → MID,WATCH,17.64,11.00,,6.60,-0.34,0.31,0.65,52.80,-2.0%,7.7%,-14.7%,True,Industrials,10.0,0.5,5.3,-10.0,5.0,0.0,5.0
-20.9,AMT,176.23,22.4%,MEDIUM,CYCLICAL,RATE,MID,no clear directional signal,WATCH,24.21,25.14,1.63,-0.90,2.00,1.97,-0.03,54.80,0.2%,1.0%,-42.0%,True,Real Estate,10.0,3.0,2.5,-10.0,5.0,0.0,5.0
-20.8,IBKR,95.84,10.7%,MEDIUM,CYCLICAL,RATE,MID,margins expanding + est rising (op_m=77%),WATCH,38.03,30.13,1.86,7.90,11.39,-0.32,-11.71,57.30,2.1%,5.9%,-2.9%,True,Financial Services,10.0,5.8,-0.4,-10.0,5.0,0.0,5.0
-19.8,HOOD,104.26,15.2%,MEDIUM,CYCLICAL,RATE,MID,margins expanding + est rising (op_m=44%),WATCH,46.13,31.79,2.49,14.30,8.19,2.86,-5.33,54.10,-3.6%,20.4%,-32.2%,True,Financial Services,10.0,7.2,-2.5,-10.0,5.0,0.0,5.0
-19.8,EMR,155.18,10.7%,MEDIUM,CYCLICAL,ECONOMIC,MID,"margins expanding, estimates not yet moving",WATCH,34.03,21.42,1.82,12.60,1.26,0.98,-0.28,50.40,-1.3%,4.4%,-6.7%,True,Industrials,10.0,1.7,3.0,-10.0,5.0,0.0,5.0
-19.8,CTAS,204.18,5.9%,HIGH,CYCLICAL,ECONOMIC,MID,fwd<trail PE + healthy margins (op_m=24%) → grower (MID),WATCH,41.67,33.40,3.24,8.30,1.27,0.14,-1.13,55.30,0.2%,-1.3%,-10.9%,True,Industrials,20.0,0.8,-3.1,-10.0,5.0,0.0,2.0
-19.2,KEX,139.06,19.5%,MEDIUM,CYCLICAL,ECONOMIC,MID,fwd<trail PE but eps30=0.7 flat/weak → MID,WATCH,21.36,16.68,,4.70,0.80,0.70,-0.10,51.90,-0.6%,5.1%,-11.8%,True,Industrials,10.0,1.1,3.1,-10.0,5.0,0.0,5.0
-18.2,NOC,545.57,18.6%,MEDIUM,CYCLICAL,ECONOMIC,MID,no clear directional signal,WATCH,17.33,17.92,,-0.60,1.00,0.26,-0.74,45.00,-1.0%,2.0%,-29.5%,True,Industrials,10.0,0.8,2.7,-10.0,5.0,0.0,5.0
-18.2,KVUE,19.17,1.7%,MEDIUM,DEFENSIVE,,LATE,fwd<trail PE + eps30=-0.3<0 → LATE,WATCH,22.55,15.44,1.58,7.10,0.87,-0.27,-1.14,50.80,0.6%,-0.7%,-28.3%,True,Consumer Defensive,10.0,0.2,6.3,-10.0,5.0,0.0,2.0
-17.3,SQM,78.63,8.2%,MEDIUM,CYCLICAL,COMMODITY,LATE,fwd<trail PE + eps30=-3.1<0 → LATE,WATCH,16.18,11.70,0.37,4.50,15.69,-3.11,-18.80,58.40,-4.1%,14.9%,-32.1%,True,Basic Materials,10.0,5.3,12.5,-25.0,5.0,0.0,5.0
-16.2,CTVA,83.90,9.8%,MEDIUM,CYCLICAL,COMMODITY,MID,margins expanding + est rising (op_m=30%),WATCH,50.85,20.36,,30.50,2.38,-0.95,-3.33,59.80,2.6%,-6.1%,-7.8%,True,Basic Materials,10.0,0.3,1.7,-10.0,5.0,0.0,5.0
-15.5,TTEK,36.54,10.4%,MEDIUM,CYCLICAL,CAPEX,MID,fwd<trail PE but eps30=? flat/weak → MID,WATCH,22.01,21.03,,1.00,,,,64.20,-1.2%,12.6%,-28.6%,True,Industrials,10.0,0.0,1.5,-10.0,5.0,0.0,5.0
-15.3,PDD,85.69,35.5%,HIGH,CYCLICAL,ECONOMIC,LATE,margins contracting + estimates falling,WATCH,9.26,6.92,,2.30,-3.36,0.81,4.17,45.90,-3.0%,-2.0%,-48.0%,True,Consumer Cyclical,20.0,2.5,6.8,-25.0,5.0,0.0,2.0
-14.4,NTR,73.51,4.0%,MEDIUM,CYCLICAL,COMMODITY,MID,"margins expanding, estimates not yet moving",WATCH,14.88,15.02,,-0.10,,,,62.90,-2.3%,4.0%,-37.3%,True,Basic Materials,10.0,0.0,3.7,-10.0,5.0,0.0,2.0
-13.5,TTE,86.35,10.1%,MEDIUM,CYCLICAL,COMMODITY,LATE,margins contracting + estimates falling,WATCH,10.81,8.93,0.70,1.90,-3.88,0.03,3.91,47.50,-3.9%,-0.8%,-8.3%,True,Energy,10.0,2.3,12.7,-25.0,5.0,0.0,5.0
-9.7,CHD,101.26,4.1%,MEDIUM,DEFENSIVE,,LATE,margins contracting + eps30=-0.2<0 → LATE not TROUGH,WATCH,32.46,25.07,,7.40,0.74,-0.19,-0.93,53.00,2.5%,3.7%,-13.1%,True,Consumer Defensive,10.0,0.2,-0.0,-10.0,5.0,0.0,2.0
-2.0,BKR,62.41,15.6%,MEDIUM,CYCLICAL,COMMODITY,LATE,fwd<trail PE + eps30=-2.2<0 → LATE,WATCH,20.07,19.75,,0.30,12.48,-2.16,-14.64,53.30,0.1%,4.2%,-11.4%,True,Energy,10.0,4.5,2.0,-25.0,5.0,0.0,5.0
-0.0,SU,65.43,7.7%,MEDIUM,CYCLICAL,COMMODITY,LATE,margins contracting + eps30=-1.0<0 → LATE not TROUGH,WATCH,12.12,11.65,,0.50,4.94,-1.02,-5.96,51.80,-4.4%,-1.9%,-6.9%,True,Energy,10.0,1.6,5.0,-25.0,5.0,0.0,2.0
+# run=2026-08-31_0528  universe=1120  cache_hit=49.1%  price_stale=799/1120  fetch_failed=59/1120
+ready_to_buy_score,ticker,price,target_upside,quality_flag,cyclicality,cyclical_driver,cycle_position,turn_state,trailingPE,forwardPE,peg,eps_rev_90d,eps_rev_30d,rsi14,pct_change_5d,pct_change_1mo,dist_from_ath,price_above_ma50,sector,rtb_f1_timing,rtb_f2_estimates,rtb_f3_ath,rtb_f4_targets,rtb_f5_trend,rtb_f6_volume,rtb_f7_cycle,rtb_f8_quality
+75.2,AMG,370.87,18.0%,HIGH,MIXED,RATE,TROUGH,WATCH,13.02,8.67,0.71,22.38,14.69,55.80,4.1%,1.5%,-5.6%,True,Financial Services,100.0,85.0,35.0,40.0,100.0,25.0,100.0,100.0
+71.5,SUI,122.92,13.1%,LOW,CYCLICAL,RATE,EARLY,WATCH,159.64,39.32,,10.73,13.40,52.20,1.0%,-1.2%,-42.0%,True,Real Estate,100.0,65.0,35.0,27.5,92.5,100.0,95.0,20.0
+69.7,ANET,195.38,23.8%,HIGH,CYCLICAL,CAPEX,EARLY,WATCH,61.63,37.87,1.90,15.96,15.49,54.60,3.6%,14.2%,-9.1%,True,Technology,100.0,65.0,35.0,40.0,100.0,10.0,95.0,100.0
+69.5,SMTC,131.17,59.6%,MEDIUM,CYCLICAL,COMMODITY,EARLY,FUNDAMENTALS_READY_PRICE_FALLING,86.87,22.48,1.21,50.19,48.80,49.30,5.7%,14.4%,-26.0%,False,Technology,61.0,100.0,35.0,65.0,70.0,75.0,95.0,60.0
+68.0,BEKE,18.32,28.9%,MEDIUM,CYCLICAL,RATE,TROUGH,WATCH,29.55,14.70,,9.69,10.06,64.10,3.2%,7.8%,-29.7%,True,Real Estate,82.0,40.0,35.0,52.5,100.0,75.0,100.0,60.0
+65.8,SPCX,141.50,54.9%,LOW,CYCLICAL,ECONOMIC,TROUGH,WATCH,,88.36,,,100.00,54.70,3.3%,26.1%,-17.6%,True,Industrials,82.0,100.0,35.0,65.0,58.0,35.0,100.0,20.0
+65.0,KB,124.16,44.6%,MEDIUM,DEFENSIVE,,EARLY,CONFIRMED,10.18,8.40,0.71,8.56,8.56,60.60,5.3%,2.5%,-1.2%,True,Financial Services,100.0,40.0,35.0,65.0,100.0,10.0,85.0,60.0
+64.9,AFRM,77.76,18.9%,MEDIUM,MIXED,RATE,EARLY,CONFIRMED,14.06,16.06,,2.97,3.02,53.40,0.9%,6.2%,-56.0%,True,Financial Services,100.0,20.0,35.0,40.0,100.0,75.0,85.0,60.0
+64.6,NVDA,217.55,48.7%,HIGH,CYCLICAL,COMMODITY,TROUGH,WATCH,27.47,14.21,0.63,21.47,19.44,52.30,1.3%,11.5%,-8.0%,True,Technology,61.0,85.0,35.0,65.0,70.0,25.0,100.0,100.0
+63.8,NUE,250.50,12.9%,MEDIUM,CYCLICAL,COMMODITY,TROUGH,WATCH,19.99,13.15,,20.66,9.55,46.50,2.8%,-2.5%,-10.6%,True,Basic Materials,61.0,85.0,35.0,27.5,100.0,50.0,100.0,60.0
+63.7,IBKR,95.84,10.7%,MEDIUM,CYCLICAL,RATE,MID,WATCH,38.03,30.13,1.86,11.39,-0.32,57.30,2.1%,5.9%,-2.9%,True,Financial Services,100.0,65.0,35.0,27.5,100.0,25.0,50.0,60.0
+63.6,UI,599.35,22.5%,HIGH,CYCLICAL,CAPEX,MID,WATCH,37.89,30.61,1.10,2.79,2.79,61.10,7.2%,12.4%,-45.5%,True,Technology,100.0,20.0,35.0,40.0,71.5,100.0,50.0,100.0
+63.5,STT,193.33,3.2%,MEDIUM,MIXED,RATE,EARLY,WATCH,17.06,12.63,,11.09,7.82,62.00,3.3%,5.8%,-1.3%,True,Financial Services,100.0,65.0,35.0,15.0,100.0,10.0,85.0,60.0
+63.5,AIZ,285.65,15.5%,MEDIUM,MIXED,RATE,EARLY,WATCH,13.68,12.19,2.16,4.29,3.87,54.60,0.6%,1.1%,-6.0%,True,Financial Services,100.0,40.0,35.0,40.0,100.0,25.0,85.0,60.0
+63.2,BLK,1164.48,13.4%,MEDIUM,MIXED,RATE,TROUGH,WATCH,27.93,18.11,1.13,6.04,0.64,59.90,0.7%,6.0%,-4.5%,True,Financial Services,100.0,40.0,35.0,27.5,100.0,25.0,100.0,60.0
+61.7,SBUX,107.85,4.1%,MEDIUM,CYCLICAL,ECONOMIC,TROUGH,WATCH,62.34,34.62,,3.60,3.42,55.40,0.7%,1.9%,-10.7%,True,Consumer Cyclical,100.0,40.0,35.0,15.0,100.0,25.0,100.0,60.0
+61.7,STLD,234.66,15.6%,MEDIUM,CYCLICAL,COMMODITY,TROUGH,FUNDAMENTALS_READY_PRICE_FALLING,21.29,12.39,,11.37,0.43,42.80,2.6%,-7.1%,-18.7%,False,Basic Materials,47.0,65.0,35.0,40.0,100.0,75.0,100.0,60.0
+61.7,WTW,343.75,10.5%,MEDIUM,MIXED,RATE,TROUGH,WATCH,21.27,15.02,,3.30,3.27,62.50,0.5%,2.3%,-2.6%,True,Financial Services,100.0,40.0,35.0,27.5,100.0,10.0,100.0,60.0
+61.1,SBAC,190.95,18.6%,HIGH,CYCLICAL,RATE,TROUGH,CONFIRMED,20.62,23.27,,0.43,0.43,59.90,4.6%,5.0%,-51.2%,True,Real Estate,100.0,20.0,35.0,40.0,92.5,10.0,100.0,100.0
+60.9,KEYS,319.97,29.7%,MEDIUM,MIXED,CAPEX,EARLY,FUNDAMENTALS_READY_PRICE_FALLING,43.30,23.44,0.65,15.00,14.87,45.10,1.2%,2.3%,-14.7%,False,Technology,61.0,65.0,35.0,52.5,70.0,75.0,85.0,60.0
+60.8,NWS,34.85,,MEDIUM,MIXED,ECONOMIC,EARLY,WATCH,33.83,23.05,,3.73,2.59,64.50,0.9%,9.6%,-2.5%,True,Communication Services,100.0,40.0,35.0,30.0,100.0,10.0,85.0,60.0
+60.5,VRSN,291.93,8.9%,MEDIUM,DEFENSIVE,,EARLY,WATCH,31.73,26.57,2.99,4.40,0.07,56.80,3.6%,1.9%,-6.6%,True,Technology,100.0,40.0,35.0,27.5,100.0,10.0,85.0,60.0
+60.4,BXP,69.32,10.0%,LOW,CYCLICAL,RATE,EARLY,WATCH,37.27,31.65,,3.06,4.70,51.90,2.4%,-3.3%,-47.9%,True,Real Estate,100.0,40.0,35.0,27.5,100.0,25.0,95.0,20.0
+59.6,RYAN,43.87,15.9%,LOW,DEFENSIVE,,EARLY,CONFIRMED,59.28,18.15,,3.23,2.73,56.70,1.4%,-0.5%,-43.1%,True,Financial Services,100.0,40.0,35.0,40.0,100.0,10.0,85.0,20.0
+59.3,AM,22.29,9.0%,LOW,MIXED,COMMODITY,MID,WATCH,26.86,13.83,,8.82,8.22,51.30,0.7%,3.4%,-6.5%,True,Energy,100.0,40.0,35.0,27.5,100.0,50.0,50.0,20.0
+59.3,SBRA,20.61,9.5%,LOW,CYCLICAL,RATE,TROUGH,WATCH,79.27,26.54,,3.10,4.49,50.10,1.1%,-3.3%,-9.5%,True,Real Estate,100.0,40.0,35.0,27.5,100.0,10.0,100.0,20.0
+59.2,LITE,895.00,28.3%,LOW,CYCLICAL,CAPEX,MID,WATCH,,27.11,0.63,17.39,14.60,53.10,3.3%,29.1%,-17.6%,True,Technology,100.0,65.0,35.0,52.5,70.0,10.0,50.0,20.0
+58.9,DELL,456.24,11.8%,MEDIUM,CYCLICAL,CAPEX,TROUGH,WATCH,36.35,20.37,0.77,59.88,3.75,52.60,3.2%,12.7%,-11.2%,True,Technology,61.0,100.0,35.0,27.5,70.0,10.0,100.0,60.0
+58.4,NWSA,30.97,16.8%,MEDIUM,MIXED,ECONOMIC,EARLY,WATCH,30.07,20.49,,3.73,2.59,68.10,1.9%,10.2%,-2.2%,True,Communication Services,80.0,40.0,35.0,40.0,100.0,10.0,85.0,60.0
+58.4,RGA,245.54,10.9%,MEDIUM,DEFENSIVE,,EARLY,WATCH,10.81,8.27,1.14,2.27,1.49,57.80,1.0%,3.1%,-2.2%,True,Financial Services,100.0,20.0,35.0,27.5,100.0,25.0,85.0,60.0
+58.1,AJG,267.56,9.0%,MEDIUM,DEFENSIVE,,TROUGH,WATCH,43.09,17.97,,0.27,0.14,60.40,1.4%,4.3%,-23.8%,True,Financial Services,100.0,20.0,35.0,27.5,100.0,10.0,100.0,60.0
+58.1,HUM,385.54,8.6%,LOW,DEFENSIVE,,EARLY,WATCH,36.51,23.27,2.22,6.37,3.35,51.90,1.8%,5.1%,-32.5%,True,Healthcare,100.0,40.0,35.0,27.5,100.0,10.0,85.0,20.0
+58.1,ESNT,68.90,8.4%,MEDIUM,MIXED,RATE,TROUGH,WATCH,9.61,8.77,,1.39,2.36,57.40,1.2%,3.7%,-2.1%,True,Financial Services,100.0,20.0,35.0,27.5,100.0,10.0,100.0,60.0
+58.0,EXPO,71.53,17.4%,HIGH,CYCLICAL,CAPEX,EARLY,CONFIRMED,32.08,25.21,2.03,2.82,2.82,67.10,1.9%,10.8%,-44.0%,True,Industrials,80.0,20.0,35.0,40.0,100.0,10.0,95.0,100.0
+57.8,HLNE,106.04,25.8%,HIGH,DEFENSIVE,,TROUGH,WATCH,16.14,14.46,,-0.88,-0.43,63.30,0.7%,19.2%,-47.9%,True,Financial Services,100.0,0.0,35.0,52.5,82.5,10.0,100.0,100.0
+57.7,SN,191.23,9.6%,MEDIUM,CYCLICAL,ECONOMIC,EARLY,WATCH,39.03,24.96,,9.35,8.08,71.30,5.8%,17.1%,-1.7%,True,Consumer Cyclical,80.0,40.0,35.0,27.5,100.0,10.0,95.0,60.0
+57.3,CLS,298.70,59.8%,MEDIUM,CYCLICAL,COMMODITY,EARLY,FUNDAMENTALS_READY_PRICE_FALLING,31.05,15.28,1.00,30.13,29.58,42.90,0.7%,-15.3%,-37.0%,False,Technology,47.0,100.0,35.0,65.0,31.5,25.0,95.0,60.0
+57.2,LPLA,370.69,16.5%,LOW,MIXED,RATE,TROUGH,CONFIRMED,29.68,12.42,0.49,4.93,1.73,63.60,2.6%,9.3%,-8.2%,True,Financial Services,100.0,40.0,35.0,40.0,70.0,10.0,100.0,20.0
+57.1,TRI,106.22,15.1%,MEDIUM,MIXED,ECONOMIC,MID,CONFIRMED,28.03,20.90,1.59,0.54,0.70,56.40,0.7%,7.5%,-51.4%,True,Industrials,100.0,20.0,35.0,40.0,100.0,25.0,50.0,60.0
+57.1,HLN,10.11,18.6%,MEDIUM,DEFENSIVE,,MID,WATCH,20.63,16.23,,1.62,2.25,57.90,1.1%,0.0%,-11.5%,True,Healthcare,100.0,20.0,35.0,40.0,100.0,25.0,50.0,60.0
+56.9,RJF,179.36,3.7%,MEDIUM,MIXED,RATE,EARLY,WATCH,15.65,12.65,0.86,5.96,4.94,58.60,2.4%,2.5%,-1.8%,True,Financial Services,100.0,40.0,35.0,15.0,70.0,25.0,85.0,60.0
+56.8,TS,53.97,18.4%,MEDIUM,CYCLICAL,COMMODITY,EARLY,FUNDAMENTALS_READY_PRICE_FALLING,14.43,13.00,,3.76,2.04,46.80,2.5%,-4.9%,-16.5%,False,Energy,61.0,40.0,35.0,40.0,100.0,50.0,95.0,60.0
+56.7,SHG,79.15,26.3%,MEDIUM,DEFENSIVE,,EARLY,CONFIRMED,10.04,8.48,,4.85,4.85,66.00,6.1%,9.4%,-1.1%,True,Financial Services,62.0,40.0,35.0,52.5,100.0,10.0,85.0,60.0
+56.6,TWLO,237.78,6.0%,MEDIUM,MIXED,CAPEX,TROUGH,WATCH,32.89,35.10,0.42,2.63,1.92,59.60,5.5%,24.5%,-36.2%,True,Technology,100.0,20.0,35.0,15.0,100.0,10.0,100.0,60.0
+56.1,CRDO,232.75,21.7%,HIGH,CYCLICAL,COMMODITY,MID,FUNDAMENTALS_READY_PRICE_FALLING,92.73,25.47,,20.16,0.67,49.00,0.9%,15.8%,-24.6%,False,Technology,61.0,85.0,35.0,40.0,70.0,10.0,50.0,100.0
+56.0,CART,50.54,13.9%,MEDIUM,CYCLICAL,ECONOMIC,TROUGH,WATCH,27.62,10.32,,-0.21,-1.54,58.10,1.4%,12.9%,-5.5%,True,Consumer Cyclical,100.0,0.0,35.0,27.5,100.0,25.0,100.0,60.0
+55.9,SNPS,442.61,23.1%,MEDIUM,MIXED,CAPEX,TROUGH,WATCH,77.51,25.28,2.50,1.72,1.32,60.70,11.2%,18.9%,-32.1%,True,Technology,82.0,20.0,35.0,40.0,62.5,50.0,100.0,60.0
+55.8,CTVA,83.90,9.8%,MEDIUM,MIXED,COMMODITY,MID,WATCH,50.85,20.36,,,,59.80,2.6%,-6.1%,-7.8%,True,Basic Materials,82.0,25.0,35.0,27.5,100.0,50.0,50.0,60.0
+55.7,APO,135.04,13.2%,LOW,CYCLICAL,RATE,TROUGH,WATCH,48.06,12.58,0.61,0.40,0.76,56.70,1.8%,12.3%,-28.7%,True,Financial Services,100.0,20.0,35.0,27.5,100.0,10.0,100.0,20.0
+55.6,FAF,74.47,17.7%,MEDIUM,MIXED,RATE,MID,WATCH,10.33,10.08,2.98,1.67,2.15,56.50,3.8%,-1.4%,-8.7%,True,Financial Services,100.0,20.0,35.0,40.0,100.0,10.0,50.0,60.0
+55.5,VNO,38.20,5.7%,LOW,CYCLICAL,RATE,EARLY,FUNDAMENTALS_READY_PRICE_FALLING,1273,123.23,,24.00,24.00,45.90,0.8%,-4.9%,-19.2%,False,Real Estate,61.0,85.0,35.0,15.0,100.0,10.0,95.0,20.0
+55.4,VOYA,102.55,5.4%,MEDIUM,MIXED,RATE,EARLY,WATCH,17.29,9.03,,2.57,0.43,62.30,4.9%,2.3%,-1.2%,True,Financial Services,100.0,20.0,35.0,15.0,100.0,10.0,85.0,60.0
+55.3,WBD,28.77,3.6%,LOW,CYCLICAL,ECONOMIC,EARLY,WATCH,,411.00,,9.44,10.07,67.90,0.8%,13.0%,-8.8%,True,Communication Services,80.0,40.0,35.0,15.0,100.0,25.0,95.0,20.0
+55.2,VALE,15.03,11.4%,LOW,CYCLICAL,COMMODITY,TROUGH,WATCH,30.06,7.46,,-0.77,0.90,55.70,3.0%,0.3%,-29.4%,True,Basic Materials,100.0,0.0,35.0,27.5,92.5,50.0,100.0,20.0
+55.0,SE,119.36,30.1%,MEDIUM,CYCLICAL,ECONOMIC,MID,WATCH,46.08,23.22,1.54,-1.00,-2.12,55.50,1.6%,12.3%,-68.0%,True,Consumer Cyclical,100.0,0.0,35.0,52.5,100.0,25.0,50.0,60.0
+55.0,THG,227.67,3.9%,MEDIUM,MIXED,RATE,MID,WATCH,10.89,11.66,,,,58.10,2.0%,-1.1%,-3.6%,True,Financial Services,100.0,25.0,35.0,15.0,100.0,25.0,50.0,60.0
+54.7,VRSK,191.77,24.0%,MEDIUM,CYCLICAL,ECONOMIC,MID,CONFIRMED,29.50,22.05,,0.45,0.20,54.10,2.3%,-4.3%,-40.6%,True,Industrials,100.0,20.0,35.0,40.0,92.5,10.0,50.0,60.0
+54.4,V,381.60,9.5%,HIGH,DEFENSIVE,,MID,WATCH,32.48,25.43,1.72,1.09,0.87,65.50,2.9%,4.2%,-1.0%,True,Financial Services,80.0,20.0,35.0,27.5,100.0,25.0,50.0,100.0
+54.4,MA,595.30,12.5%,HIGH,DEFENSIVE,,MID,WATCH,32.78,25.85,1.81,1.15,1.03,67.40,2.5%,3.1%,-1.1%,True,Financial Services,80.0,20.0,35.0,27.5,100.0,25.0,50.0,100.0
+54.4,TW,108.87,13.6%,HIGH,MIXED,RATE,MID,CONFIRMED,25.98,23.68,1.94,0.55,-0.07,62.00,1.7%,11.3%,-28.7%,True,Financial Services,100.0,20.0,35.0,27.5,82.5,10.0,50.0,100.0
+54.3,BE,210.77,30.5%,LOW,CYCLICAL,ECONOMIC,EARLY,FUNDAMENTALS_READY_PRICE_FALLING,270.22,42.84,0.91,13.82,8.24,46.30,4.6%,1.8%,-40.0%,False,Industrials,61.0,65.0,35.0,52.5,70.0,25.0,95.0,20.0
+54.1,NDAQ,99.31,10.6%,MEDIUM,MIXED,RATE,MID,WATCH,28.95,21.23,1.87,5.61,0.49,69.10,1.1%,4.4%,-2.4%,True,Financial Services,80.0,40.0,35.0,27.5,100.0,10.0,50.0,60.0
+54.1,PM,191.89,6.2%,MEDIUM,DEFENSIVE,,MID,WATCH,26.32,20.93,,0.35,0.48,53.70,1.9%,-0.1%,-7.6%,True,Consumer Defensive,100.0,20.0,35.0,15.0,100.0,25.0,50.0,60.0
+54.1,OMC,88.28,15.6%,LOW,DEFENSIVE,,MID,WATCH,238.59,7.33,,,,61.00,0.9%,10.9%,-17.5%,True,Communication Services,100.0,25.0,35.0,40.0,100.0,10.0,50.0,20.0
+54.1,TRU,85.67,12.7%,MEDIUM,MIXED,RATE,MID,CONFIRMED,22.60,15.29,1.35,0.34,0.31,63.80,1.2%,6.7%,-31.7%,True,Financial Services,100.0,20.0,35.0,27.5,100.0,10.0,50.0,60.0
+54.1,MSA,190.34,9.9%,HIGH,CYCLICAL,ECONOMIC,TROUGH,WATCH,23.70,18.97,0.99,3.42,3.37,60.20,0.5%,9.2%,-8.9%,True,Industrials,61.0,40.0,35.0,27.5,100.0,10.0,100.0,100.0
+54.1,SIEGY,167.37,3.9%,MEDIUM,CYCLICAL,ECONOMIC,MID,WATCH,28.66,22.65,,0.76,10.57,61.00,2.3%,2.6%,-1.2%,True,Industrials,100.0,20.0,35.0,15.0,100.0,25.0,50.0,60.0
+54.0,OKTA,166.23,8.5%,MEDIUM,MIXED,CAPEX,EARLY,WATCH,100.14,37.97,1.64,2.47,2.26,64.70,23.0%,18.4%,-39.8%,True,Technology,61.0,20.0,35.0,27.5,80.0,75.0,85.0,60.0
+53.6,CI,278.88,22.4%,LOW,DEFENSIVE,,TROUGH,WATCH,11.53,8.33,0.83,-0.00,0.02,48.30,0.5%,-3.0%,-24.8%,False,Healthcare,100.0,20.0,35.0,40.0,82.5,25.0,100.0,20.0
+53.4,EXLS,38.40,16.2%,MEDIUM,DEFENSIVE,,EARLY,CONFIRMED,24.30,14.79,,3.49,2.98,73.90,2.3%,11.8%,-26.8%,True,Technology,44.0,40.0,35.0,40.0,100.0,25.0,85.0,60.0
+53.3,MSFT,513.53,10.9%,HIGH,MIXED,CAPEX,MID,CONFIRMED,28.58,21.78,1.64,4.18,4.28,73.10,6.3%,13.8%,-7.5%,True,Technology,62.0,40.0,35.0,27.5,100.0,10.0,50.0,100.0
+53.3,SEIC,111.63,3.8%,HIGH,MIXED,RATE,MID,CONFIRMED,19.69,16.14,,4.54,0.00,81.30,1.9%,8.3%,-0.5%,True,Financial Services,62.0,40.0,35.0,15.0,100.0,25.0,50.0,100.0
+53.2,BRK-B,505.00,8.4%,MEDIUM,MIXED,RATE,TROUGH,WATCH,12.71,22.76,,4.16,3.16,50.80,1.8%,-0.9%,-6.8%,True,Financial Services,61.0,40.0,35.0,27.5,100.0,25.0,100.0,60.0
+53.2,UL,65.07,13.7%,LOW,DEFENSIVE,,MID,WATCH,21.91,16.42,,0.57,1.13,59.30,1.5%,-0.3%,-13.2%,True,Consumer Defensive,100.0,20.0,35.0,27.5,100.0,25.0,50.0,20.0
+53.2,MCK,893.39,10.5%,LOW,DEFENSIVE,,MID,WATCH,23.98,17.67,,0.46,0.37,58.30,4.0%,3.2%,-10.6%,True,Healthcare,100.0,20.0,35.0,27.5,100.0,25.0,50.0,20.0
+53.0,ARES,142.53,3.5%,MEDIUM,CYCLICAL,RATE,TROUGH,WATCH,65.38,19.82,1.35,-1.75,-1.61,58.50,0.9%,14.8%,-28.9%,True,Financial Services,100.0,0.0,35.0,15.0,100.0,10.0,100.0,60.0
+53.0,BRO,73.31,4.6%,MEDIUM,DEFENSIVE,,TROUGH,WATCH,23.42,15.19,1.51,-0.81,0.05,58.00,0.5%,3.4%,-41.7%,True,Financial Services,100.0,0.0,35.0,15.0,100.0,10.0,100.0,60.0
+52.9,PTC,157.15,10.3%,HIGH,MIXED,ECONOMIC,MID,WATCH,15.24,17.68,,2.87,3.00,65.70,1.6%,15.3%,-28.5%,True,Technology,80.0,20.0,35.0,27.5,100.0,10.0,50.0,100.0
+52.9,CDNS,340.39,18.4%,HIGH,MIXED,ECONOMIC,MID,FUNDAMENTALS_READY_PRICE_FALLING,67.54,35.67,3.15,1.71,1.49,54.00,6.7%,2.3%,-18.3%,False,Technology,100.0,20.0,35.0,40.0,70.0,25.0,50.0,100.0
+52.9,MCO,514.95,8.8%,HIGH,CYCLICAL,RATE,MID,WATCH,32.67,27.23,2.14,1.70,0.44,65.70,2.3%,6.8%,-5.8%,True,Financial Services,80.0,20.0,35.0,27.5,100.0,10.0,50.0,100.0
+52.9,MSCI,570.76,21.3%,HIGH,DEFENSIVE,,MID,WATCH,31.26,25.37,2.23,0.19,0.14,49.70,1.3%,-0.9%,-16.1%,False,Financial Services,100.0,20.0,35.0,40.0,82.5,10.0,50.0,100.0
+52.6,MAT,15.14,20.4%,LOW,CYCLICAL,ECONOMIC,TROUGH,WATCH,11.30,9.52,1.22,0.21,-0.97,56.70,4.3%,-0.5%,-43.9%,True,Consumer Cyclical,100.0,20.0,35.0,40.0,61.5,10.0,100.0,20.0
+52.5,SJM,132.34,6.9%,LOW,DEFENSIVE,,TROUGH,CONFIRMED,61.84,12.16,2.17,3.92,0.82,72.00,6.5%,8.3%,-18.8%,True,Consumer Defensive,62.0,40.0,35.0,15.0,100.0,25.0,100.0,20.0
+52.1,ECL,286.75,13.3%,LOW,CYCLICAL,COMMODITY,MID,WATCH,38.44,30.45,,-2.11,0.59,57.40,1.8%,2.6%,-7.3%,True,Basic Materials,100.0,0.0,35.0,27.5,100.0,50.0,50.0,20.0
+52.1,JKHY,169.73,12.8%,HIGH,DEFENSIVE,,MID,WATCH,24.32,21.65,,,,65.20,2.1%,10.0%,-20.2%,True,Technology,62.0,25.0,35.0,27.5,100.0,25.0,50.0,100.0
+52.0,C,132.90,16.3%,MEDIUM,MIXED,RATE,EARLY,FUNDAMENTALS_READY_PRICE_FALLING,14.32,10.32,0.72,3.19,2.07,46.50,0.9%,0.4%,-10.2%,False,Financial Services,61.0,40.0,35.0,40.0,100.0,10.0,85.0,60.0
+52.0,SNX,253.97,31.3%,LOW,DEFENSIVE,,EARLY,FUNDAMENTALS_READY_PRICE_FALLING,18.22,11.86,0.77,15.93,0.00,49.90,1.5%,0.7%,-14.3%,False,Technology,61.0,65.0,35.0,52.5,70.0,10.0,85.0,20.0
+51.7,HSIC,89.52,9.7%,LOW,DEFENSIVE,,MID,WATCH,26.10,14.92,2.06,1.53,1.54,57.60,1.1%,5.1%,-3.4%,True,Healthcare,100.0,20.0,35.0,27.5,100.0,10.0,50.0,20.0
+51.7,MORN,217.65,8.7%,LOW,MIXED,RATE,MID,WATCH,20.73,15.62,2.31,5.35,3.58,67.80,0.8%,12.7%,-40.4%,True,Financial Services,80.0,40.0,35.0,27.5,100.0,10.0,50.0,20.0
+51.6,AMZN,266.43,23.0%,HIGH,CYCLICAL,ECONOMIC,EARLY,WATCH,21.42,25.64,1.36,5.46,4.36,55.90,3.0%,13.1%,-7.2%,True,Consumer Cyclical,61.0,40.0,35.0,40.0,70.0,10.0,95.0,100.0
+51.4,AMP,559.32,3.6%,HIGH,MIXED,RATE,EARLY,WATCH,13.51,10.83,1.78,8.45,3.64,58.30,0.7%,2.7%,-3.9%,True,Financial Services,61.0,40.0,35.0,15.0,100.0,10.0,85.0,100.0
+51.4,RNR,330.74,4.7%,HIGH,MIXED,RATE,MID,WATCH,5.73,8.07,,-2.01,-1.95,60.30,2.2%,3.9%,-1.6%,True,Financial Services,100.0,0.0,35.0,15.0,100.0,10.0,50.0,100.0
+51.3,ATI,210.76,17.9%,LOW,CYCLICAL,ECONOMIC,EARLY,WATCH,61.81,33.86,1.33,15.13,14.83,50.30,1.8%,15.9%,-13.5%,True,Industrials,61.0,65.0,35.0,40.0,70.0,10.0,95.0,20.0
+51.2,SPOT,547.51,11.8%,HIGH,MIXED,ECONOMIC,MID,WATCH,29.50,30.29,,-2.34,-1.78,60.90,2.6%,4.8%,-30.2%,True,Communication Services,82.0,0.0,35.0,27.5,100.0,25.0,50.0,100.0
+51.1,LIVN,80.32,10.6%,MEDIUM,MIXED,ECONOMIC,MID,WATCH,23.69,17.17,0.93,0.82,0.94,51.70,2.0%,-0.9%,-14.4%,False,Healthcare,100.0,20.0,35.0,27.5,100.0,10.0,50.0,60.0
+50.6,PCTY,157.93,8.9%,HIGH,MIXED,ECONOMIC,MID,WATCH,32.03,16.31,1.28,,,69.60,3.0%,15.5%,-49.8%,True,Technology,62.0,25.0,35.0,27.5,100.0,10.0,50.0,100.0
+50.5,BIIB,218.50,8.1%,MEDIUM,MIXED,ECONOMIC,MID,WATCH,38.74,13.21,,-0.34,0.74,58.30,0.8%,5.1%,-36.0%,True,Healthcare,100.0,0.0,35.0,27.5,100.0,10.0,50.0,60.0
+50.5,ELAN,24.11,29.5%,LOW,MIXED,ECONOMIC,MID,WATCH,,18.84,4.04,,,48.60,0.6%,-8.9%,-31.1%,False,Healthcare,100.0,25.0,35.0,52.5,82.5,10.0,50.0,20.0
+50.4,LOPE,151.19,29.0%,HIGH,DEFENSIVE,,MID,CONFIRMED,18.28,13.35,0.98,-0.28,1.43,56.70,2.5%,0.7%,-32.2%,True,Consumer Defensive,100.0,0.0,35.0,52.5,41.5,25.0,50.0,100.0
+50.2,EPD,39.02,6.2%,LOW,MIXED,COMMODITY,MID,WATCH,13.50,12.36,1.52,1.19,0.65,58.60,2.7%,2.4%,-2.9%,True,Energy,100.0,20.0,35.0,15.0,100.0,10.0,50.0,20.0
+50.2,FDX,330.88,7.7%,LOW,MIXED,ECONOMIC,MID,WATCH,17.83,15.88,,,0.78,56.20,1.8%,7.2%,-4.2%,True,Industrials,100.0,20.0,35.0,15.0,100.0,10.0,50.0,20.0
+50.2,CCEP,109.10,3.4%,LOW,DEFENSIVE,,MID,WATCH,21.10,19.17,3.10,0.65,0.48,55.60,1.0%,-2.3%,-4.0%,True,Consumer Defensive,100.0,20.0,35.0,15.0,100.0,10.0,50.0,20.0
+50.1,ALL,260.58,5.2%,HIGH,MIXED,RATE,MID,WATCH,5.22,9.44,3.09,5.08,4.14,52.40,2.7%,-1.8%,-6.0%,True,Financial Services,61.0,40.0,35.0,15.0,100.0,25.0,50.0,100.0
+50.1,FFIV,394.24,10.6%,HIGH,MIXED,CAPEX,MID,FUNDAMENTALS_READY_PRICE_FALLING,31.44,21.81,1.47,3.56,2.19,48.10,2.5%,1.4%,-9.4%,False,Technology,61.0,40.0,35.0,27.5,100.0,10.0,50.0,100.0
+50.1,ANF,148.42,9.8%,MEDIUM,CYCLICAL,ECONOMIC,TROUGH,WATCH,12.82,11.65,3.62,7.08,6.51,77.70,36.1%,48.0%,-24.7%,True,Consumer Cyclical,2.0,40.0,35.0,27.5,100.0,100.0,100.0,60.0
+49.7,COKE,198.49,,LOW,DEFENSIVE,,MID,CONFIRMED,26.39,5.10,3.04,,,62.00,5.0%,4.6%,-9.6%,True,Consumer Defensive,82.0,25.0,35.0,30.0,100.0,10.0,50.0,20.0
+49.6,BUD,80.13,21.1%,MEDIUM,DEFENSIVE,,MID,WATCH,17.27,16.11,1.81,1.13,1.41,49.40,1.5%,-7.0%,-7.5%,False,Consumer Defensive,61.0,20.0,35.0,40.0,100.0,50.0,50.0,60.0
+49.6,RSG,222.11,10.7%,LOW,MIXED,ECONOMIC,MID,WATCH,31.46,27.57,,-0.04,-0.05,58.90,0.7%,5.1%,-14.2%,True,Industrials,100.0,0.0,35.0,27.5,100.0,25.0,50.0,20.0
+49.6,BSY,37.30,19.2%,LOW,MIXED,ECONOMIC,MID,WATCH,41.44,23.75,1.68,-0.30,-0.71,60.50,0.6%,5.9%,-48.1%,True,Technology,100.0,0.0,35.0,40.0,100.0,10.0,50.0,20.0
+49.6,OPCH,23.90,19.6%,LOW,DEFENSIVE,,TROUGH,WATCH,18.11,11.48,,1.38,1.58,58.10,0.8%,6.4%,-35.0%,True,Healthcare,100.0,20.0,35.0,40.0,61.5,10.0,100.0,20.0
+49.4,LNTH,100.77,6.3%,HIGH,MIXED,ECONOMIC,TROUGH,WATCH,24.11,15.93,,-0.80,-0.39,46.50,0.8%,-0.2%,-20.6%,False,Healthcare,61.0,0.0,35.0,15.0,100.0,50.0,100.0,100.0
+49.4,NVR,6396.27,6.0%,MEDIUM,CYCLICAL,RATE,TROUGH,WATCH,16.64,15.54,,-1.95,0.51,51.60,0.6%,1.7%,-35.8%,False,Consumer Cyclical,100.0,0.0,35.0,15.0,61.5,50.0,100.0,60.0
+49.2,RTX,211.71,10.9%,MEDIUM,CYCLICAL,ECONOMIC,EARLY,WATCH,37.34,26.95,2.64,3.90,3.53,47.90,0.9%,-1.2%,-6.7%,True,Industrials,61.0,40.0,35.0,27.5,70.0,25.0,95.0,60.0
+49.2,G,38.02,10.9%,MEDIUM,DEFENSIVE,,MID,CONFIRMED,11.32,8.42,1.16,0.79,0.81,68.50,2.4%,7.6%,-33.0%,True,Technology,62.0,20.0,35.0,27.5,82.5,50.0,50.0,60.0
+49.1,CMC,67.63,20.6%,LOW,CYCLICAL,ECONOMIC,TROUGH,FUNDAMENTALS_READY_PRICE_FALLING,12.78,9.16,,7.64,3.97,46.10,2.0%,-1.1%,-20.3%,False,Industrials,61.0,40.0,35.0,40.0,52.5,50.0,100.0,20.0
+49.0,JPM,357.62,4.7%,MEDIUM,MIXED,RATE,EARLY,WATCH,15.32,14.30,1.73,5.82,2.27,55.20,1.7%,1.9%,-2.4%,True,Financial Services,61.0,40.0,35.0,15.0,100.0,10.0,85.0,60.0
+48.5,NOV,20.99,5.9%,LOW,CYCLICAL,COMMODITY,TROUGH,CONFIRMED,77.74,16.40,,-0.90,-0.89,57.40,2.8%,8.8%,-15.5%,True,Energy,100.0,0.0,35.0,15.0,70.0,25.0,100.0,20.0
+48.4,BAC,62.32,10.4%,MEDIUM,MIXED,RATE,EARLY,WATCH,14.39,11.77,1.04,5.10,1.98,50.80,1.0%,1.0%,-4.5%,True,Financial Services,61.0,40.0,35.0,27.5,70.0,25.0,85.0,60.0
+48.4,TYL,377.94,,MEDIUM,MIXED,,EARLY,CONFIRMED,49.73,24.62,,6.91,3.50,72.70,7.8%,16.9%,-42.9%,True,,23.0,40.0,35.0,30.0,100.0,25.0,85.0,60.0
+48.3,UNH,392.95,20.9%,LOW,DEFENSIVE,,TROUGH,FUNDAMENTALS_READY_PRICE_FALLING,25.25,17.51,,7.94,-0.00,42.30,0.7%,-6.8%,-37.7%,False,Healthcare,47.0,40.0,35.0,40.0,100.0,10.0,100.0,20.0
+47.9,BR,183.64,16.1%,LOW,DEFENSIVE,,MID,CONFIRMED,19.13,15.86,1.99,1.21,1.09,68.60,0.8%,18.6%,-32.5%,True,Technology,62.0,20.0,35.0,40.0,100.0,25.0,50.0,20.0
+47.4,CHRW,150.39,32.9%,LOW,MIXED,ECONOMIC,EARLY,FUNDAMENTALS_READY_PRICE_FALLING,28.76,20.05,2.07,2.18,0.72,43.30,6.2%,2.4%,-28.5%,False,Industrials,86.0,20.0,35.0,52.5,61.5,10.0,85.0,20.0
+47.3,ICE,162.33,14.2%,MEDIUM,MIXED,RATE,MID,WATCH,22.90,18.44,2.96,0.22,0.94,72.10,0.7%,3.9%,-14.3%,True,Financial Services,62.0,20.0,35.0,27.5,100.0,10.0,50.0,60.0
+47.3,LECO,,,MEDIUM,MIXED,,MID,WATCH,,,,,,57.70,1.1%,13.9%,,False,,64.0,25.0,35.0,30.0,58.0,75.0,50.0,60.0
+47.2,CAH,234.55,15.5%,LOW,DEFENSIVE,,EARLY,WATCH,32.49,16.66,1.18,4.10,3.57,52.00,2.2%,3.3%,-9.2%,True,Healthcare,61.0,40.0,35.0,40.0,80.0,10.0,85.0,20.0
+47.0,NBIX,154.06,37.3%,MEDIUM,DEFENSIVE,,MID,WATCH,22.52,12.89,0.46,,,40.50,1.0%,-17.0%,-17.2%,False,Healthcare,47.0,25.0,35.0,52.5,100.0,25.0,50.0,60.0
+46.9,USB,62.47,12.6%,MEDIUM,MIXED,RATE,EARLY,FUNDAMENTALS_READY_PRICE_FALLING,12.47,10.79,2.09,2.64,0.13,45.30,0.7%,-0.7%,-5.5%,False,Financial Services,61.0,20.0,35.0,27.5,100.0,10.0,85.0,60.0
+46.9,CINF,171.97,11.5%,HIGH,MIXED,RATE,TROUGH,WATCH,8.15,19.04,2.19,-1.65,-1.55,45.20,2.2%,-1.6%,-11.7%,False,Financial Services,61.0,0.0,35.0,27.5,100.0,10.0,100.0,100.0
+46.6,META,578.02,30.6%,HIGH,MIXED,ECONOMIC,LATE,WATCH,21.79,16.53,,-2.41,-3.26,49.60,5.1%,7.2%,-27.4%,False,Communication Services,100.0,0.0,35.0,52.5,61.5,25.0,10.0,100.0
+46.4,SONY,24.85,20.7%,LOW,DEFENSIVE,,MID,WATCH,21.24,20.88,1.60,0.05,4.52,68.70,3.9%,9.1%,-18.1%,True,Technology,62.0,20.0,35.0,40.0,100.0,10.0,50.0,20.0
+46.4,MELI,1966.25,14.8%,LOW,CYCLICAL,ECONOMIC,LATE,WATCH,53.47,34.60,,-4.36,-2.31,59.70,2.3%,4.3%,-25.7%,True,Consumer Cyclical,100.0,0.0,35.0,27.5,100.0,25.0,10.0,20.0
+46.1,SAP,221.54,11.6%,HIGH,DEFENSIVE,,MID,CONFIRMED,28.48,22.90,1.89,-1.18,0.76,71.30,1.3%,22.5%,-29.3%,True,Technology,62.0,0.0,35.0,27.5,100.0,10.0,50.0,100.0
+45.9,ACM,69.17,25.7%,LOW,MIXED,CAPEX,LATE,CONFIRMED,24.36,10.82,,-4.83,-4.80,54.30,6.8%,-3.6%,-49.0%,True,Industrials,100.0,0.0,35.0,52.5,54.0,75.0,10.0,20.0
+45.8,ROP,426.20,4.5%,MEDIUM,DEFENSIVE,,MID,CONFIRMED,17.76,17.54,1.83,1.66,1.74,71.40,3.5%,9.5%,-28.4%,True,Technology,62.0,20.0,35.0,15.0,100.0,10.0,50.0,60.0
+45.6,WFC,86.69,15.6%,MEDIUM,MIXED,RATE,MID,WATCH,12.35,10.97,1.61,0.96,0.24,52.40,3.4%,1.5%,-11.3%,True,Financial Services,61.0,20.0,35.0,40.0,100.0,10.0,50.0,60.0
+45.5,IX,39.00,6.1%,MEDIUM,DEFENSIVE,,MID,WATCH,11.05,,2.72,-0.69,0.71,47.00,1.3%,-3.5%,-8.0%,False,Financial Services,61.0,0.0,35.0,15.0,100.0,75.0,50.0,60.0
+45.0,NFLX,81.72,14.6%,HIGH,CYCLICAL,ECONOMIC,MID,WATCH,25.70,21.39,1.79,-0.33,0.19,62.60,2.7%,11.7%,-39.1%,True,Communication Services,82.0,0.0,35.0,27.5,61.5,10.0,50.0,100.0
+44.9,T,26.01,10.4%,LOW,DEFENSIVE,,MID,WATCH,8.58,10.15,,0.41,0.41,68.90,2.9%,12.1%,-12.7%,True,Communication Services,62.0,20.0,35.0,27.5,100.0,10.0,50.0,20.0
+44.9,EFX,194.35,8.8%,LOW,CYCLICAL,ECONOMIC,MID,WATCH,34.16,19.15,,-1.26,-0.10,62.70,0.9%,10.3%,-37.2%,True,Industrials,82.0,0.0,35.0,27.5,100.0,10.0,50.0,20.0
+44.6,ZTO,21.50,32.7%,HIGH,CYCLICAL,ECONOMIC,TROUGH,WATCH,11.26,9.59,1.21,-1.88,-2.13,34.30,0.6%,-9.9%,-38.2%,False,Industrials,35.0,0.0,35.0,52.5,61.5,50.0,100.0,100.0
+44.4,GOOGL,346.59,23.5%,HIGH,MIXED,ECONOMIC,MID,FUNDAMENTALS_READY_PRICE_FALLING,17.39,23.37,0.92,2.79,0.67,49.30,0.5%,3.9%,-15.2%,False,Communication Services,61.0,20.0,35.0,40.0,70.0,10.0,50.0,100.0
+44.4,NYT,68.16,13.9%,MEDIUM,MIXED,ECONOMIC,MID,WATCH,28.40,21.82,3.79,-2.11,-2.92,49.00,3.8%,-10.1%,-21.8%,False,Communication Services,100.0,0.0,35.0,27.5,61.5,25.0,50.0,60.0
+44.4,PEGA,36.17,19.9%,HIGH,MIXED,ECONOMIC,MID,CONFIRMED,20.55,13.68,,,,66.20,7.8%,20.4%,-49.2%,True,Technology,62.0,25.0,35.0,40.0,61.5,10.0,50.0,100.0
+44.4,STAG,37.18,13.2%,MEDIUM,CYCLICAL,RATE,MID,WATCH,28.60,42.25,,,-3.05,44.50,1.4%,-3.5%,-23.0%,False,Real Estate,86.0,0.0,35.0,27.5,82.5,25.0,50.0,60.0
+44.0,DASH,236.74,6.6%,MEDIUM,CYCLICAL,ECONOMIC,MID,WATCH,123.30,29.07,,1.60,1.28,72.50,5.9%,19.9%,-17.1%,True,Consumer Cyclical,44.0,20.0,35.0,15.0,100.0,25.0,50.0,60.0
+43.7,DT,,,MEDIUM,MIXED,,MID,WATCH,,,,,,70.10,8.9%,21.7%,,False,,44.0,25.0,35.0,30.0,58.0,75.0,50.0,60.0
+43.6,EBAY,105.62,10.0%,LOW,CYCLICAL,ECONOMIC,TROUGH,WATCH,22.19,15.69,1.56,-0.45,-0.08,47.80,1.4%,-7.0%,-11.5%,False,Consumer Cyclical,61.0,0.0,35.0,27.5,100.0,25.0,100.0,20.0
+43.0,J,151.98,6.9%,LOW,MIXED,CAPEX,MID,WATCH,50.49,18.40,,-0.18,0.35,69.20,1.3%,14.5%,-9.8%,True,Industrials,80.0,0.0,35.0,15.0,100.0,10.0,50.0,20.0
+42.8,CMCSA,27.06,11.2%,LOW,DEFENSIVE,,LATE,WATCH,8.67,7.47,,-4.85,-1.56,63.00,0.8%,14.3%,-53.3%,True,Communication Services,100.0,0.0,35.0,27.5,82.5,10.0,10.0,20.0
+42.3,CVNA,,,MEDIUM,MIXED,,MID,WATCH,,,,,,56.30,5.9%,20.5%,,False,,64.0,25.0,35.0,30.0,58.0,25.0,50.0,60.0
+42.3,ADSK,,,MEDIUM,MIXED,,MID,WATCH,,,,,,61.00,2.7%,10.9%,,False,,64.0,25.0,35.0,30.0,58.0,25.0,50.0,60.0
+42.3,VEEV,276.69,6.3%,MEDIUM,MIXED,ECONOMIC,MID,WATCH,45.43,27.02,1.26,3.63,2.07,74.90,11.6%,37.3%,-17.7%,True,Healthcare,23.0,40.0,35.0,15.0,100.0,10.0,50.0,60.0
+42.3,HAL,,,MEDIUM,MIXED,,MID,WATCH,,,,,,61.40,2.4%,14.3%,,False,,64.0,25.0,35.0,30.0,58.0,25.0,50.0,60.0
+42.3,CHD,,,MEDIUM,MIXED,,MID,WATCH,,,,,,53.00,2.5%,3.7%,,False,,64.0,25.0,35.0,30.0,58.0,25.0,50.0,60.0
+41.8,DOCS,26.73,11.4%,HIGH,MIXED,ECONOMIC,LATE,CONFIRMED,31.82,17.25,,-2.84,-2.78,62.40,5.5%,25.9%,-75.2%,True,Healthcare,82.0,0.0,35.0,27.5,61.5,10.0,10.0,100.0
+41.5,BHF,,,MEDIUM,MIXED,,MID,WATCH,,,,,,30.10,1.5%,-16.4%,,False,,38.0,25.0,35.0,30.0,28.0,100.0,50.0,60.0
+41.2,CCI,76.14,24.9%,MEDIUM,CYCLICAL,RATE,LATE,WATCH,31.08,26.37,,-2.27,-2.15,50.10,0.8%,-0.5%,-63.7%,False,Real Estate,100.0,0.0,35.0,40.0,61.5,10.0,10.0,60.0
+41.2,BILL,,,MEDIUM,MIXED,,MID,WATCH,,,,,,62.60,5.2%,10.8%,,False,,64.0,25.0,35.0,30.0,28.0,50.0,50.0,60.0
+41.0,MZTI,114.84,27.7%,MEDIUM,DEFENSIVE,,LATE,WATCH,16.45,15.88,,-2.24,-2.24,53.00,2.9%,6.7%,-47.9%,True,Consumer Defensive,100.0,0.0,35.0,52.5,14.0,50.0,10.0,60.0
+40.8,EG,,,MEDIUM,MIXED,,MID,WATCH,,,,,,55.90,2.0%,0.6%,,False,,64.0,25.0,35.0,30.0,58.0,10.0,50.0,60.0
+40.5,SLB,57.33,8.0%,MEDIUM,MIXED,COMMODITY,LATE,CONFIRMED,27.97,17.74,,-3.48,-1.77,70.90,6.4%,17.2%,-7.7%,True,Energy,62.0,0.0,35.0,27.5,100.0,10.0,10.0,60.0
+40.5,SIGI,92.46,11.2%,MEDIUM,MIXED,RATE,MID,WATCH,11.47,10.54,0.30,-0.81,-0.92,45.90,1.1%,-2.3%,-15.6%,False,Financial Services,61.0,0.0,35.0,27.5,100.0,10.0,50.0,60.0
+40.4,GL,172.79,12.2%,HIGH,DEFENSIVE,,MID,WATCH,11.68,10.46,1.30,-0.62,-0.65,42.20,1.0%,-5.6%,-9.8%,False,Financial Services,47.0,0.0,35.0,27.5,100.0,10.0,50.0,100.0
+40.3,DTM,129.53,19.2%,MEDIUM,MIXED,COMMODITY,MID,WATCH,28.41,26.44,,-1.49,-1.59,40.80,2.2%,-5.3%,-15.3%,False,Energy,47.0,0.0,35.0,40.0,52.5,75.0,50.0,60.0
+39.9,AIG,76.93,15.0%,MEDIUM,MIXED,RATE,MID,WATCH,14.04,8.76,,-1.28,-0.65,48.10,1.1%,-2.5%,-12.7%,False,Financial Services,61.0,0.0,35.0,40.0,82.5,10.0,50.0,60.0
+39.8,SRE,,,MEDIUM,MIXED,,MID,WATCH,,,,,,41.50,1.7%,-5.9%,,False,,50.0,25.0,35.0,30.0,58.0,25.0,50.0,60.0
+39.8,IPGP,76.53,64.9%,LOW,CYCLICAL,CAPEX,MID,WATCH,117.74,33.48,,0.00,-1.11,40.20,4.5%,-9.9%,-57.6%,False,Technology,47.0,20.0,35.0,65.0,14.0,75.0,50.0,20.0
+37.4,JEF,53.09,15.8%,LOW,MIXED,RATE,MID,WATCH,14.83,11.69,1.17,,,44.60,1.5%,-3.6%,-35.8%,False,Financial Services,47.0,25.0,35.0,40.0,52.5,25.0,50.0,20.0
+37.2,ZS,,,MEDIUM,MIXED,,MID,WATCH,,,,,,60.40,1.4%,24.1%,,False,,64.0,25.0,35.0,30.0,28.0,10.0,50.0,60.0
+37.2,SSNC,,,MEDIUM,MIXED,,MID,WATCH,,,,,,68.60,0.6%,8.1%,,False,,44.0,25.0,35.0,30.0,58.0,10.0,50.0,60.0
+37.2,SOLV,,,MEDIUM,MIXED,,MID,WATCH,,,,,,65.10,1.7%,5.0%,,False,,44.0,25.0,35.0,30.0,58.0,10.0,50.0,60.0
+36.0,CRBG,32.61,18.8%,LOW,MIXED,RATE,MID,WATCH,20.90,5.65,,-1.07,0.30,52.70,2.1%,2.0%,-10.8%,True,Financial Services,61.0,0.0,35.0,40.0,70.0,10.0,50.0,20.0
+34.5,ORI,42.07,3.4%,MEDIUM,DEFENSIVE,,MID,WATCH,9.23,12.75,1.39,-1.00,1.02,47.80,1.2%,-3.0%,-10.0%,True,Financial Services,61.0,0.0,35.0,15.0,62.5,10.0,50.0,60.0
+32.8,XRAY,11.12,23.4%,LOW,MIXED,ECONOMIC,TROUGH,WATCH,,7.33,,-1.25,-2.11,40.40,1.8%,-19.1%,-82.4%,False,Healthcare,47.0,0.0,35.0,40.0,31.5,10.0,100.0,20.0
+31.0,FNF,47.55,29.1%,MEDIUM,MIXED,RATE,LATE,WATCH,16.57,8.21,0.85,-3.40,-1.71,41.50,0.5%,-8.7%,-26.1%,False,Financial Services,47.0,0.0,35.0,52.5,31.5,25.0,10.0,60.0
+30.3,HXL,94.87,15.9%,LOW,CYCLICAL,ECONOMIC,LATE,WATCH,47.91,30.45,1.31,-2.12,-2.54,37.70,1.1%,-7.8%,-15.1%,False,Industrials,47.0,0.0,35.0,40.0,70.0,10.0,10.0,20.0
