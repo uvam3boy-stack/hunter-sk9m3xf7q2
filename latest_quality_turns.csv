@@ -1,8 +1,8 @@
-# run=2026-09-02_1426  universe=220  cache_hit=0.0%  price_stale=0/220  fetch_failed=0/220
+# run=2026-09-02_1445  universe=220  cache_hit=0.0%  price_stale=0/220  fetch_failed=0/220
 ticker,quality_flag,ready_to_buy_excluded,target_upside,turn_state,eps_rev_90d,eps_rev_30d,debtToEquity,fcf_margin,profitMargins,survivability,price_above_ma50,pct_change_1mo,sector
-ENTG,LOW,LOW_QUALITY,33.3%,FUNDAMENTALS_READY_PRICE_FALLING,8.91,7.84,85.66,0.02,0.09,27.70,False,-10.0%,Technology
-SNPS,LOW,LOW_QUALITY,30.6%,FALLING_KNIFE,1.72,1.32,34.80,0.04,0.11,51.30,True,3.4%,Technology
-ENSG,LOW,LOW_QUALITY,26.7%,WATCH,3.81,2.67,92.03,0.03,0.07,14.30,False,-1.4%,Healthcare
-ITT,LOW,LOW_QUALITY,26.7%,WATCH,4.44,3.80,79.73,0.02,0.09,19.80,True,-1.2%,Industrials
-BUD,LOW,LOW_QUALITY,22.8%,FUNDAMENTALS_READY_PRICE_FALLING,1.13,1.41,71.88,0.07,0.15,51.30,False,-6.6%,Consumer Defensive
-MCD,LOW,LOW_QUALITY,20.7%,WATCH,-1.70,-0.96,,0.03,0.32,77.80,False,-2.6%,Consumer Cyclical
+ENTG,LOW,LOW_QUALITY,32.9%,FUNDAMENTALS_READY_PRICE_FALLING,8.91,7.84,85.66,0.02,0.09,27.70,False,4.2%,Technology
+SNPS,LOW,LOW_QUALITY,30.6%,WATCH,1.72,1.32,34.80,0.04,0.11,51.30,True,6.4%,Technology
+ENSG,LOW,LOW_QUALITY,27.0%,WATCH,3.81,2.67,92.03,0.03,0.07,14.30,False,-2.2%,Healthcare
+ITT,LOW,LOW_QUALITY,26.5%,WATCH,4.44,3.80,79.73,,0.09,19.80,True,2.1%,Industrials
+BUD,LOW,LOW_QUALITY,22.9%,FUNDAMENTALS_READY_PRICE_FALLING,1.13,1.41,71.88,0.07,0.15,51.30,False,-6.0%,Consumer Defensive
+MCD,LOW,LOW_QUALITY,20.7%,WATCH,-1.70,-0.96,,0.03,0.32,77.80,False,-1.5%,Consumer Cyclical
