@@ -1,4 +1,4 @@
-# run=2026-09-03_2017  universe=221  cache_hit=0.0%  price_stale=0/221  fetch_failed=0/221
+# run=2026-09-03_2131  universe=221  cache_hit=0.0%  price_stale=0/221  fetch_failed=0/221
 ticker,ready_to_buy_excluded,quality_flag,quality_score,target_upside,price_above_ma50,estimate_momentum_state,eps_rev_30d,eps_rev_90d,price_stale,_ohlcv_fresh
 MCD,LOW_QUALITY,LOW,62.7,21.5%,False,,-0.96,-1.70,False,True
 AON,BOTH_ESTIMATES_NEGATIVE,MEDIUM,60.4,20.6%,False,,-0.11,-0.33,False,True
@@ -15,7 +15,5 @@ GILD,NEAR_TARGET,MEDIUM,41.9,4.1%,True,,2.85,3.20,False,True
 SPGI,BOTH_ESTIMATES_NEGATIVE,MEDIUM,41.7,15.3%,True,,-0.37,-8.84,False,True
 WPM,SPECULATIVE,SPECULATIVE,36.5,11.5%,True,,-5.11,-14.18,False,True
 FNV,NEAR_TARGET,HIGH,36.3,5.4%,True,,1.58,-6.56,False,True
-CDE,NEAR_TARGET,HIGH,35.9,7.7%,True,,0.23,-8.16,False,True
 CVX,NEAR_TARGET,MEDIUM,34.6,3.3%,True,,4.47,7.50,False,True
-ITUB,NEAR_TARGET,MEDIUM,31.1,7.5%,True,,0.50,1.21,False,True
 NUE,NEAR_TARGET,MEDIUM,20.5,7.8%,True,,9.55,20.66,False,True
