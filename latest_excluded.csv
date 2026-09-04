@@ -1,19 +1,19 @@
-# run=2026-09-03_2131  universe=221  cache_hit=0.0%  price_stale=0/221  fetch_failed=0/221
+# run=2026-09-04_1351  universe=220  cache_hit=0.0%  price_stale=0/220  fetch_failed=0/220
 ticker,ready_to_buy_excluded,quality_flag,quality_score,target_upside,price_above_ma50,estimate_momentum_state,eps_rev_30d,eps_rev_90d,price_stale,_ohlcv_fresh
-MCD,LOW_QUALITY,LOW,62.7,21.5%,False,,-0.96,-1.70,False,True
-AON,BOTH_ESTIMATES_NEGATIVE,MEDIUM,60.4,20.6%,False,,-0.11,-0.33,False,True
-CME,NEAR_TARGET,HIGH,57.7,0.4%,True,,-0.07,0.19,False,True
-T,LOW_QUALITY,LOW,57.4,9.6%,True,,0.41,0.41,False,True
-RMD,NEAR_TARGET,MEDIUM,54.9,7.4%,True,,-0.04,-0.86,False,True
-AAPL,ABOVE_TARGET,HIGH,53.2,-1.1%,True,,-1.85,-1.24,False,True
-META,BOTH_ESTIMATES_NEGATIVE,HIGH,52.8,23.6%,True,,-3.26,-2.41,False,True
-DXCM,NEAR_TARGET,MEDIUM,46.7,4.9%,True,,1.51,2.27,False,True
-AEM,NEAR_TARGET,HIGH,44.9,3.8%,True,,-1.59,-15.82,False,True
-TMO,LOW_QUALITY,LOW,44.0,2.3%,True,,0.09,0.78,False,True
-XOM,NEAR_TARGET,MEDIUM,42.2,4.6%,True,,0.66,1.30,False,True
-GILD,NEAR_TARGET,MEDIUM,41.9,4.1%,True,,2.85,3.20,False,True
-SPGI,BOTH_ESTIMATES_NEGATIVE,MEDIUM,41.7,15.3%,True,,-0.37,-8.84,False,True
-WPM,SPECULATIVE,SPECULATIVE,36.5,11.5%,True,,-5.11,-14.18,False,True
-FNV,NEAR_TARGET,HIGH,36.3,5.4%,True,,1.58,-6.56,False,True
-CVX,NEAR_TARGET,MEDIUM,34.6,3.3%,True,,4.47,7.50,False,True
-NUE,NEAR_TARGET,MEDIUM,20.5,7.8%,True,,9.55,20.66,False,True
+MCD,LOW_QUALITY,LOW,63.2,22.8%,False,,-0.96,-1.70,False,True
+AON,BOTH_ESTIMATES_NEGATIVE,MEDIUM,60.7,21.1%,False,,-0.11,-0.33,False,True
+CME,NEAR_TARGET,HIGH,57.8,0.6%,True,,-0.07,0.19,False,True
+T,LOW_QUALITY,LOW,57.7,10.2%,True,,0.41,0.41,False,True
+RMD,BOTH_ESTIMATES_NEGATIVE,MEDIUM,55.5,8.8%,True,,-0.04,-0.86,False,True
+AAPL,NEAR_TARGET,HIGH,53.9,0.2%,True,,-1.85,-1.24,False,True
+META,BOTH_ESTIMATES_NEGATIVE,HIGH,53.1,24.2%,True,,-3.26,-2.41,False,True
+DXCM,NEAR_TARGET,MEDIUM,47.9,6.9%,True,,1.51,2.27,False,True
+AEM,NEAR_TARGET,HIGH,46.0,6.2%,True,,-1.59,-15.82,False,True
+TMO,LOW_QUALITY,LOW,45.1,4.1%,True,,0.09,0.78,False,True
+OSK,NEAR_TARGET,MEDIUM,44.6,7.0%,True,,0.31,-0.34,False,True
+XOM,NEAR_TARGET,MEDIUM,43.1,6.3%,True,,0.66,1.30,False,True
+SPGI,BOTH_ESTIMATES_NEGATIVE,MEDIUM,42.9,17.9%,True,,-0.37,-8.84,False,True
+GILD,NEAR_TARGET,MEDIUM,42.3,4.7%,True,,2.85,3.20,False,True
+WPM,SPECULATIVE,SPECULATIVE,37.8,14.1%,True,,-5.11,-14.18,False,True
+FNV,NEAR_TARGET,HIGH,37.3,7.1%,True,,1.58,-6.56,False,True
+CVX,NEAR_TARGET,MEDIUM,35.6,5.0%,True,,4.47,7.50,False,True
