@@ -1,4 +1,4 @@
-# run=2026-09-05_0403  universe=220  cache_hit=0.0%  price_stale=2/220  fetch_failed=0/220
+# run=2026-09-05_0023  universe=220  cache_hit=0.0%  price_stale=2/220  fetch_failed=0/220
 ticker,ready_to_buy_excluded,quality_flag,quality_score,target_upside,price_above_ma50,estimate_momentum_state,eps_rev_30d,eps_rev_90d,price_stale,_ohlcv_fresh
 MCD,LOW_QUALITY,LOW,63.3,23.3%,False,,-0.96,-1.70,False,True
 AON,BOTH_ESTIMATES_NEGATIVE,MEDIUM,61.1,20.6%,False,,-0.11,-0.33,False,True
@@ -13,6 +13,9 @@ TMO,LOW_QUALITY,LOW,44.5,4.0%,True,,0.09,0.78,False,True
 XOM,NEAR_TARGET,MEDIUM,43.2,7.2%,True,,0.66,1.30,False,True
 SPGI,BOTH_ESTIMATES_NEGATIVE,MEDIUM,42.5,17.1%,True,,-0.37,-8.84,False,True
 GILD,NEAR_TARGET,MEDIUM,42.0,4.2%,True,,2.85,3.20,False,True
+LSCC,PE_DISTORTED,MEDIUM,40.5,42.0%,False,,37.94,39.01,False,True
 FNV,NEAR_TARGET,HIGH,37.2,7.1%,True,,1.58,-6.56,False,True
 WPM,SPECULATIVE,SPECULATIVE,37.1,12.7%,True,,-5.11,-14.18,False,True
 CVX,NEAR_TARGET,MEDIUM,35.4,6.0%,True,,4.47,7.50,False,True
+BE,PE_DISTORTED,MEDIUM,32.2,8.8%,True,,8.24,13.82,False,True
+ARXS,PE_DISTORTED,MEDIUM,25.3,15.6%,True,,38.94,71.27,False,True

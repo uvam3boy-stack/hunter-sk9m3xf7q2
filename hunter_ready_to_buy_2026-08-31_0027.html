@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HUNTER RTB — 2026-08-31_0027</title>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+<style>
+  body {font-family:monospace;font-size:13px;padding:16px;background:#111;color:#ddd;margin:0}
+  h1 {color:#fff;margin:0 0 6px}
+  .ts {font-size:20px;color:#ffe082;font-weight:bold;margin-bottom:4px}
+  .meta {color:#999;font-size:12px;margin-bottom:14px}
+  .warn {color:#f88}
+  /* Freeze header row on vertical scroll */
+  table.dataTable thead th {
+    background:#1e1e1e;color:#fff;border-bottom:1px solid #444;
+    position:sticky;top:0;z-index:2;
+  }
+  table.dataTable tbody td {background:#161616;color:#ddd;border-bottom:1px solid #222}
+  table.dataTable tbody tr:hover td {background:#222}
+  /* Freeze Ticker column (2nd col) on horizontal scroll */
+  table.dataTable thead th:nth-child(2) {position:sticky;left:0;z-index:3;background:#1e1e1e}
+  table.dataTable tbody td:nth-child(2) {position:sticky;left:0;z-index:1;background:#161616}
+  table.dataTable tbody tr:hover td:nth-child(2) {background:#222}
+  /* Stale-data rows: amber left border */
+  table.dataTable tbody tr.stale-row td {border-left:2px solid #f88}
+  .dataTables_wrapper .dataTables_filter input {background:#1e1e1e;color:#ddd;border:1px solid #444}
+  .dataTables_wrapper {color:#aaa}
+  a {color:#80cbc4}
+  .inc-toggle-btn {background:#1a1a1a;color:#f88;border:1px solid #f88;padding:4px 14px;
+    cursor:pointer;font-family:monospace;font-size:12px;margin:24px 0 8px;display:block}
+</style>
+</head>
+<body>
+<h1>HUNTER Ready-to-Buy Screen</h1>
+<div class="ts">Last updated: 2026-08-31 12:28 AM ET</div>
+<div class="meta">
+  Run: 2026-08-31_0027 &nbsp;|&nbsp; Universe: 43 &nbsp;|&nbsp;
+  Ranked: 10 &nbsp;|&nbsp; Cache hit: 50.0%
+  &nbsp;|&nbsp; <a href="latest.csv">Download CSV</a>
+</div>
+<div style="overflow-x:auto">
+<table id="rtb-table" class="display compact" style="width:100%">
+<thead><tr><th>RTB Score</th><th>Ticker</th><th>Name</th><th>Price</th><th>Upside %</th><th>Quality</th><th>Cyclicality</th><th>Driver</th><th>Cycle Pos</th><th>Cycle Reason</th><th>Turn State</th><th>PE (trail)</th><th>PE (fwd)</th><th>PE Δ (fwd-trail)</th><th>PEG</th><th>EPS Rev 90d</th><th>EPS Rev 30d</th><th>Rev Accel</th><th>RSI 14</th><th>5D %</th><th>1Mo %</th><th>Dist ATH</th><th>>MA50</th><th>Sector</th></tr></thead>
+<tbody>
+<tr><td data-order="78.2" style="color:#4caf50;font-weight:bold">78.2</td><td>KB</td><td>KB Financial Group Inc.</td><td data-order="124.16000366210938">124.16</td><td data-order="0.4463065778307597">44.6%</td><td style="color:#8bc34a">MEDIUM</td><td>DEFENSIVE</td><td></td><td>EARLY</td><td>fwd<trail PE + healthy margins (op_m=59%) → grower (EARLY)</td><td style="color:#4caf50">CONFIRMED</td><td data-order="10.17705">10.2</td><td data-order="8.4035425">8.4</td><td>1.80</td><td data-order="0.71">0.7</td><td data-order="8.56" style="color:#8bc34a">+8.6</td><td data-order="8.56" style="color:#8bc34a">+8.6</td><td>0.00</td><td data-order="60.6">60.6</td><td data-order="0.0526">5.3%</td><td data-order="0.0254">2.5%</td><td data-order="-0.0119">-1.2%</td><td>Yes</td><td>Financial Services</td></tr>
+<tr><td data-order="77.0" style="color:#4caf50;font-weight:bold">77.0</td><td>NVDA</td><td>NVIDIA Corporation</td><td data-order="217.5500030517578">217.55</td><td data-order="0.4866420384423283">48.7%</td><td style="color:#4caf50">HIGH</td><td>CYCLICAL</td><td>COMMODITY</td><td>TROUGH</td><td>margins contracting, estimates stabilising</td><td style="color:#ffc107">WATCH</td><td data-order="27.468435">27.5</td><td data-order="14.213399">14.2</td><td>13.30</td><td data-order="0.6279">0.6</td><td data-order="21.47" style="color:#8bc34a">+21.5</td><td data-order="19.44" style="color:#8bc34a">+19.4</td><td>-2.03</td><td data-order="52.3">52.3</td><td data-order="0.0132">1.3%</td><td data-order="0.1154">11.5%</td><td data-order="-0.0803">-8.0%</td><td>Yes</td><td>Technology</td></tr>
+<tr><td data-order="73.6" style="color:#4caf50;font-weight:bold">73.6</td><td>ANET</td><td>Arista Networks, Inc.</td><td data-order="195.3800048828125">195.38</td><td data-order="0.23766600448719913">23.8%</td><td style="color:#4caf50">HIGH</td><td>CYCLICAL</td><td>CAPEX</td><td>EARLY</td><td>fwd<trail PE + healthy margins (op_m=45%) → grower (EARLY)</td><td style="color:#ffc107">WATCH</td><td data-order="61.63407">61.6</td><td data-order="37.86757">37.9</td><td>23.80</td><td data-order="1.901">1.9</td><td data-order="15.96" style="color:#8bc34a">+16.0</td><td data-order="15.49" style="color:#8bc34a">+15.5</td><td>-0.47</td><td data-order="54.6">54.6</td><td data-order="0.0357">3.6%</td><td data-order="0.1424">14.2%</td><td data-order="-0.0908">-9.1%</td><td>Yes</td><td>Technology</td></tr>
+<tr><td data-order="69.1" style="color:#4caf50;font-weight:bold">69.1</td><td>PLTR</td><td>Palantir Technologies Inc.</td><td data-order="186.2899932861328">186.29</td><td data-order="0.028933420517055865">2.9%</td><td style="color:#4caf50">HIGH</td><td>MIXED</td><td>CAPEX</td><td>MID</td><td>margins expanding + est rising (op_m=47%)</td><td style="color:#4caf50">CONFIRMED</td><td data-order="159.22223">159.2</td><td data-order="80.49727">80.5</td><td>78.70</td><td data-order="2.49">2.5</td><td data-order="11.57" style="color:#8bc34a">+11.6</td><td data-order="10.49" style="color:#8bc34a">+10.5</td><td>-1.08</td><td data-order="69.3">69.3</td><td data-order="0.0353">3.5%</td><td data-order="0.5237">52.4%</td><td data-order="-0.1023">-10.2%</td><td>Yes</td><td>Technology</td></tr>
+<tr><td data-order="63.7" style="color:#4caf50;font-weight:bold">63.7</td><td>MSFT</td><td>Microsoft Corporation</td><td data-order="513.530029296875">513.53</td><td data-order="0.1089004878248224">10.9%</td><td style="color:#4caf50">HIGH</td><td>MIXED</td><td>CAPEX</td><td>MID</td><td>margins expanding + est rising (op_m=45%)</td><td style="color:#4caf50">CONFIRMED</td><td data-order="28.577076">28.6</td><td data-order="21.78441">21.8</td><td>6.80</td><td data-order="1.6402">1.6</td><td data-order="4.18" style="color:#8bc34a">+4.2</td><td data-order="4.28" style="color:#8bc34a">+4.3</td><td>0.10</td><td data-order="73.1">73.1</td><td data-order="0.0627">6.3%</td><td data-order="0.1384">13.8%</td><td data-order="-0.0755">-7.5%</td><td>Yes</td><td>Technology</td></tr>
+<tr><td data-order="45.2" style="color:#8bc34a">45.2</td><td>V</td><td>Visa Inc.</td><td data-order="381.6000061035156">381.60</td><td data-order="0.09513142902475942">9.5%</td><td style="color:#4caf50">HIGH</td><td>DEFENSIVE</td><td></td><td>MID</td><td>fwd<trail PE + healthy margins (op_m=66%) → grower (MID)</td><td style="color:#ffc107">WATCH</td><td data-order="32.476597">32.5</td><td data-order="25.432709">25.4</td><td>7.00</td><td data-order="1.7201">1.7</td><td data-order="1.09" style="color:#8bc34a">+1.1</td><td data-order="0.87" style="color:#8bc34a">+0.9</td><td>-0.22</td><td data-order="65.5">65.5</td><td data-order="0.0285">2.9%</td><td data-order="0.0419">4.2%</td><td data-order="-0.0103">-1.0%</td><td>Yes</td><td>Financial Services</td></tr>
+<tr><td data-order="42.1" style="color:#8bc34a">42.1</td><td>BLK</td><td>BlackRock, Inc.</td><td data-order="1164.47998046875">1164.48</td><td data-order="0.13425092930178145">13.4%</td><td style="color:#8bc34a">MEDIUM</td><td>MIXED</td><td>RATE</td><td>TROUGH</td><td>margins contracting, estimates stabilising</td><td style="color:#ffc107">WATCH</td><td data-order="27.931879">27.9</td><td data-order="18.107883">18.1</td><td>9.80</td><td data-order="1.1261">1.1</td><td data-order="6.04" style="color:#8bc34a">+6.0</td><td data-order="0.64" style="color:#8bc34a">+0.6</td><td>-5.40</td><td data-order="59.9">59.9</td><td data-order="0.0069">0.7%</td><td data-order="0.0602">6.0%</td><td data-order="-0.0455">-4.5%</td><td>Yes</td><td>Financial Services</td></tr>
+<tr><td data-order="39.4">39.4</td><td>FUTU</td><td>Futu Holdings Limited</td><td data-order="124.26000213623047">124.26</td><td data-order="0.2956976278133852">29.6%</td><td style="color:#8bc34a">MEDIUM</td><td>MIXED</td><td>RATE</td><td>MID</td><td>margins expanding, estimates not yet moving</td><td style="color:#ffc107">WATCH</td><td data-order="12.376494">12.4</td><td data-order="10.057184">10.1</td><td>2.30</td><td data-order=""></td><td data-order="-9.93" style="color:#f44336">-9.9</td><td data-order="1.04" style="color:#8bc34a">+1.0</td><td>10.97</td><td data-order="64.4">64.4</td><td data-order="0.005">0.5%</td><td data-order="0.2015">20.2%</td><td data-order="-0.3865">-38.6%</td><td>Yes</td><td>Financial Services</td></tr>
+<tr><td data-order="38.5">38.5</td><td>JPM</td><td>JPMorgan Chase & Co.</td><td data-order="357.6199951171875">357.62</td><td data-order="0.047400718959401934">4.7%</td><td style="color:#8bc34a">MEDIUM</td><td>MIXED</td><td>RATE</td><td>EARLY</td><td>fwd<trail PE + healthy margins (op_m=50%) → grower (EARLY)</td><td style="color:#ffc107">WATCH</td><td data-order="15.315631">15.3</td><td data-order="14.300801">14.3</td><td>1.00</td><td data-order="1.7324">1.7</td><td data-order="5.82" style="color:#8bc34a">+5.8</td><td data-order="2.27" style="color:#8bc34a">+2.3</td><td>-3.55</td><td data-order="55.2">55.2</td><td data-order="0.0172">1.7%</td><td data-order="0.0193">1.9%</td><td data-order="-0.0242">-2.4%</td><td>Yes</td><td>Financial Services</td></tr>
+<tr><td data-order="27.5">27.5</td><td>SHOP</td><td>Shopify Inc.</td><td data-order="152.89999389648438">152.90</td><td data-order="0.11935217025496057">11.9%</td><td style="color:#8bc34a">MEDIUM</td><td>MIXED</td><td>ECONOMIC</td><td>TROUGH</td><td>margins contracting, estimates stabilising</td><td style="color:#ffc107">WATCH</td><td data-order="103.31081">103.3</td><td data-order="62.33768">62.3</td><td>41.00</td><td data-order="2.6115">2.6</td><td data-order="5.1" style="color:#8bc34a">+5.1</td><td data-order="5.2" style="color:#8bc34a">+5.2</td><td>0.10</td><td data-order="61.2">61.2</td><td data-order="0.0245">2.5%</td><td data-order="0.2492">24.9%</td><td data-order="-0.1608">-16.1%</td><td>Yes</td><td>Technology</td></tr>
+</tbody>
+</table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script>
+// Fix 6: custom sort type — numeric, blanks always last regardless of direction
+jQuery.extend(jQuery.fn.dataTableExt.oSort, {
+  'num-null-last-asc':  function(a,b) {
+    if(a===''||a===null) return 1;
+    if(b===''||b===null) return -1;
+    return a*1 - b*1;
+  },
+  'num-null-last-desc': function(a,b) {
+    if(a===''||a===null) return 1;
+    if(b===''||b===null) return -1;
+    return b*1 - a*1;
+  }
+});
+$(document).ready(function(){
+  $('#rtb-table').DataTable({
+    order: [[0,'desc']],
+    paging: false,
+    columnDefs: [
+      // Fix 6: numeric columns use blank-last sort type; data-order attr supplies raw value
+      {targets:[0,3,4,11,12,14,15,16,18,19,20,21], type:'num-null-last'}
+    ]
+  });
+  // Incomplete-rows toggle
+  var incBtn = document.getElementById('inc-toggle');
+  if (incBtn) {
+    incBtn.addEventListener('click', function() {
+      var body = document.getElementById('inc-body');
+      var hidden = body.style.display === 'none';
+      body.style.display = hidden ? '' : 'none';
+      this.textContent = hidden
+        ? 'Hide 0 incomplete rows ▲'
+        : 'Show 0 incomplete rows ▼';
+    });
+  }
+});
+</script>
+</body>
+</html>
