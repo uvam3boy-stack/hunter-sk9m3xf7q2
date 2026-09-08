@@ -1,4 +1,4 @@
-# run=2026-09-08_2147  universe=235  cache_hit=0.0%  price_stale=0/235  fetch_failed=0/235
+# run=2026-09-08_2158  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
 ticker,ready_to_buy_excluded,quality_flag,quality_score,target_upside,price_above_ma50,estimate_momentum_state,eps_rev_30d,eps_rev_90d,price_stale,_ohlcv_fresh
 ADSK,BOTH_ESTIMATES_NEGATIVE,MEDIUM,64.2,48.6%,False,,-0.18,-0.37,False,True
 MCD,LOW_QUALITY,LOW,63.3,23.3%,False,,-0.96,-1.70,False,True
