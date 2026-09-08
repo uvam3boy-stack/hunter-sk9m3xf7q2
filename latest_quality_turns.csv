@@ -1,5 +1,5 @@
-# run=2026-09-08_1855  universe=235  cache_hit=0.0%  price_stale=0/235  fetch_failed=0/235
+# run=2026-09-08_2003  universe=235  cache_hit=0.0%  price_stale=0/235  fetch_failed=0/235
 ticker,quality_flag,ready_to_buy_excluded,target_upside,turn_state,eps_rev_90d,eps_rev_30d,debtToEquity,fcf_margin,profitMargins,survivability,price_above_ma50,pct_change_1mo,sector
-CCL,LOW,LOW_QUALITY,50.5%,FUNDAMENTALS_READY_PRICE_FALLING,1.13,-0.20,201.56,0.06,0.11,27.20,False,-19.1%,Consumer Cyclical
-VST,LOW,LOW_QUALITY,42.0%,CONFIRMED,-5.00,-6.05,373.28,0.00,0.12,13.00,True,8.9%,Utilities
-MCD,LOW,LOW_QUALITY,23.1%,FALLING_KNIFE,-1.70,-0.96,,0.03,0.32,78.50,False,-6.7%,Consumer Cyclical
+CCL,LOW,LOW_QUALITY,52.0%,FUNDAMENTALS_READY_PRICE_FALLING,1.13,-0.20,201.56,0.06,0.11,27.20,False,-19.9%,Consumer Cyclical
+VST,LOW,LOW_QUALITY,43.3%,CONFIRMED,-5.00,-6.05,373.28,0.00,0.12,13.00,True,7.9%,Utilities
+MCD,LOW,LOW_QUALITY,23.3%,FALLING_KNIFE,-1.70,-0.96,,0.03,0.32,78.50,False,-6.8%,Consumer Cyclical
