@@ -1,6 +1,6 @@
-# run=2026-09-09_1712  universe=239  cache_hit=0.0%  price_stale=0/239  fetch_failed=0/239
+# run=2026-09-09_1848  universe=239  cache_hit=0.0%  price_stale=0/239  fetch_failed=0/239
 ticker,quality_flag,ready_to_buy_excluded,target_upside,turn_state,eps_rev_90d,eps_rev_30d,debtToEquity,fcf_margin,profitMargins,survivability,price_above_ma50,pct_change_1mo,sector
-CCL,LOW,LOW_QUALITY,54.4%,FALLING_KNIFE,1.13,-0.20,201.56,0.06,0.11,28.10,False,-17.6%,Consumer Cyclical
-VST,LOW,LOW_QUALITY,44.8%,WATCH,-5.00,-6.05,373.28,0.00,0.12,13.30,True,5.1%,Utilities
-MCD,LOW,LOW_QUALITY,23.6%,WATCH,-1.70,-0.96,,0.03,0.32,78.10,False,-6.8%,Consumer Cyclical
-UNH,LOW,LOW_QUALITY,20.2%,FALLING_KNIFE,7.50,-0.00,69.21,0.07,0.03,41.40,False,-3.3%,Healthcare
+CCL,LOW,LOW_QUALITY,55.4%,FALLING_KNIFE,1.13,-0.20,201.56,0.06,0.11,28.10,False,-18.1%,Consumer Cyclical
+VST,LOW,LOW_QUALITY,44.7%,WATCH,-5.00,-6.05,373.28,0.00,0.12,13.30,True,5.2%,Utilities
+MCD,LOW,LOW_QUALITY,23.8%,WATCH,-1.70,-0.96,,0.03,0.32,78.10,False,-6.9%,Consumer Cyclical
+UNH,LOW,LOW_QUALITY,21.2%,FALLING_KNIFE,7.50,-0.00,69.21,0.07,0.03,41.40,False,-4.1%,Healthcare
