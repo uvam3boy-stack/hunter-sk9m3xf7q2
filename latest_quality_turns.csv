@@ -1,8 +1,8 @@
-# run=2026-09-11_1400  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
+# run=2026-09-11_1416  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
 ticker,quality_flag,ready_to_buy_excluded,target_upside,turn_state,eps_rev_90d,eps_rev_30d,debtToEquity,fcf_margin,profitMargins,survivability,price_above_ma50,pct_change_1mo,sector
-CCL,LOW,LOW_QUALITY,54.9%,FUNDAMENTALS_READY_PRICE_FALLING,1.13,-0.20,201.56,0.06,0.11,27.80,False,-17.7%,Consumer Cyclical
-VST,LOW,LOW_QUALITY,47.8%,WATCH,-5.00,-6.05,373.28,0.00,0.12,13.50,False,0.3%,Utilities
-MCD,LOW,LOW_QUALITY,25.0%,WATCH,-1.70,-0.96,,0.04,0.32,78.20,False,-8.5%,Consumer Cyclical
-UNH,LOW,LOW_QUALITY,23.0%,FUNDAMENTALS_READY_PRICE_FALLING,7.50,-0.00,69.21,0.07,0.03,41.50,False,-4.7%,Healthcare
-DAR,LOW,LOW_QUALITY,21.3%,WATCH,15.51,11.90,78.61,0.02,0.09,24.70,True,4.9%,Consumer Defensive
-CEG,SPECULATIVE,SPECULATIVE,20.6%,WATCH,-1.84,-1.93,76.42,-0.06,0.11,23.80,True,3.6%,Utilities
+CCL,LOW,LOW_QUALITY,55.0%,FUNDAMENTALS_READY_PRICE_FALLING,1.13,-0.20,201.56,0.06,0.11,27.80,False,-17.7%,Consumer Cyclical
+VST,LOW,LOW_QUALITY,46.9%,WATCH,-5.00,-6.05,373.28,0.00,0.12,13.50,False,0.9%,Utilities
+MCD,LOW,LOW_QUALITY,24.6%,WATCH,-1.70,-0.96,,0.03,0.32,78.20,False,-8.2%,Consumer Cyclical
+UNH,LOW,LOW_QUALITY,23.7%,FUNDAMENTALS_READY_PRICE_FALLING,7.50,-0.00,69.21,0.07,0.03,41.50,False,-5.3%,Healthcare
+DAR,LOW,LOW_QUALITY,21.7%,WATCH,15.51,11.90,78.61,0.02,0.09,24.70,True,4.6%,Consumer Defensive
+CEG,SPECULATIVE,SPECULATIVE,20.4%,WATCH,-1.84,-1.93,76.42,-0.06,0.11,23.80,True,3.8%,Utilities
