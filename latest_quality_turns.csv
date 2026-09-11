@@ -1,4 +1,4 @@
-# run=2026-09-11_2141  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
+# run=2026-09-11_2246  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
 ticker,quality_flag,ready_to_buy_excluded,target_upside,turn_state,eps_rev_90d,eps_rev_30d,debtToEquity,fcf_margin,profitMargins,survivability,price_above_ma50,pct_change_1mo,sector
 CCL,LOW,LOW_QUALITY,55.1%,FUNDAMENTALS_READY_PRICE_FALLING,1.13,-0.20,201.56,0.06,0.11,27.80,False,-17.8%,Consumer Cyclical
 VST,LOW,LOW_QUALITY,46.5%,WATCH,-5.00,-6.05,373.28,0.00,0.12,13.50,False,1.2%,Utilities
