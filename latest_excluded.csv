@@ -1,4 +1,4 @@
-# run=2026-09-11_2329  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
+# run=2026-09-12_0129  universe=238  cache_hit=0.0%  price_stale=2/238  fetch_failed=0/238
 ticker,ready_to_buy_excluded,quality_flag,quality_score,target_upside,price_above_ma50,estimate_momentum_state,eps_rev_30d,eps_rev_90d,price_stale,_ohlcv_fresh
 AON,BOTH_ESTIMATES_NEGATIVE,MEDIUM,64.4,26.4%,False,,-4.33,-4.63,False,True
 ADSK,BOTH_ESTIMATES_NEGATIVE,MEDIUM,64.2,48.5%,False,,-0.18,-0.37,False,True
@@ -27,6 +27,7 @@ ITUB,NEAR_TARGET,MEDIUM,30.3,6.4%,True,,0.50,1.21,False,True
 ABBV,NEAR_TARGET,MEDIUM,30.0,7.9%,True,,-0.33,0.39,False,True
 VST,LOW_QUALITY,LOW,29.5,46.5%,False,,-6.05,-5.00,False,True
 RELY,BOTH_ESTIMATES_NEGATIVE,MEDIUM,29.1,47.0%,False,,-2.27,-2.07,False,True
+BBD,BOTH_ESTIMATES_NEGATIVE,MEDIUM,21.3,22.2%,True,,-3.31,-3.25,False,True
 BRK-B,NEAR_TARGET,MEDIUM,19.7,7.3%,True,,3.16,4.16,False,True
 MFG,ABOVE_TARGET,MEDIUM,8.5,-8.5%,True,,9.62,6.71,False,True
 MUFG,ABOVE_TARGET,MEDIUM,6.5,-9.6%,True,,1.86,8.44,False,True
