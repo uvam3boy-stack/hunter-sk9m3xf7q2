@@ -1,4 +1,4 @@
-# run=2026-09-16_2025  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
+# run=2026-09-16_2049  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
 ticker,quality_flag,target_upside,pct_change_1mo,dist_from_ath,vol_vs_10d_avg,recent_action,eps_rev_30d,eps_rev_90d,turn_state,conviction_count,sector
 NVDA,HIGH,53.7%,-4.9%,-9.6%,0.82,NORMAL,21.80,23.23,WATCH,11.00,Technology
 AMAT,HIGH,54.3%,-22.4%,-43.8%,0.93,GAP-UP-FADED,6.40,13.55,FUNDAMENTALS_READY_PRICE_FALLING,11.00,Technology

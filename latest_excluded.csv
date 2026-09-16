@@ -1,4 +1,4 @@
-# run=2026-09-16_2025  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
+# run=2026-09-16_2049  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
 ticker,ready_to_buy_excluded,quality_flag,quality_score,target_upside,price_above_ma50,estimate_momentum_state,eps_rev_30d,eps_rev_90d,price_stale,_ohlcv_fresh
 AON,BOTH_ESTIMATES_NEGATIVE,MEDIUM,64.8,27.4%,False,,-5.03,-5.29,False,True
 ADSK,BOTH_ESTIMATES_NEGATIVE,MEDIUM,64.2,42.0%,False,,-0.12,-0.32,False,True
