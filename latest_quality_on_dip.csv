@@ -1,0 +1,10 @@
+# run=2026-09-16_0025  universe=1108  cache_hit=48.7%  price_stale=944/1108  fetch_failed=0/1108
+ticker,quality_flag,target_upside,pct_change_1mo,dist_from_ath,vol_vs_10d_avg,recent_action,eps_rev_30d,eps_rev_90d,turn_state,conviction_count,sector
+NVDA,HIGH,54.9%,-5.8%,-10.3%,0.76,BASING,21.80,23.23,FUNDAMENTALS_READY_PRICE_FALLING,11.00,Technology
+AMAT,HIGH,52.2%,-17.0%,-43.1%,0.96,NORMAL,6.40,13.55,FUNDAMENTALS_READY_PRICE_FALLING,11.00,Technology
+MU,HIGH,63.1%,-4.5%,-26.1%,0.80,NORMAL,0.25,39.13,WATCH,12.00,Technology
+SKHY,HIGH,42.1%,,-12.5%,0.77,GAP-UP-FADED,5.40,,FALLING_KNIFE,8.00,Technology
+SNDK,HIGH,38.8%,-6.7%,-35.0%,0.68,NORMAL,6.56,44.75,WATCH,10.00,Technology
+KLAC,HIGH,39.1%,-17.5%,-45.3%,0.82,NORMAL,2.02,12.40,FALLING_KNIFE,9.00,Technology
+MRVL,HIGH,30.4%,-0.1%,-32.8%,0.68,NORMAL,8.30,9.53,WATCH,10.00,Technology
+ISRG,HIGH,26.3%,-4.4%,-38.8%,0.81,FELL-RECOVERED,0.17,2.59,WATCH,10.00,Healthcare
