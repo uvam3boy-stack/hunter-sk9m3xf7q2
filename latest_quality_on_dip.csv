@@ -1,6 +1,3 @@
-# run=2026-09-19_0148  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
+# run=2026-09-19_1128  universe=1117  cache_hit=32.8%  price_stale=656/1117  fetch_failed=0/1117
 ticker,quality_flag,target_upside,pct_change_1mo,dist_from_ath,vol_vs_10d_avg,recent_action,eps_rev_30d,eps_rev_90d,turn_state,conviction_count,sector
-NTES,HIGH,39.7%,-8.7%,-27.2%,0.60,BASING,0.93,0.26,FUNDAMENTALS_READY_PRICE_FALLING,9.00,Communication Services
-CLS,MEDIUM,41.7%,10.4%,-29.8%,0.78,NORMAL,0.21,30.95,WATCH,9.00,Technology
-AZN,MEDIUM,27.8%,0.7%,-21.9%,0.90,BASING,0.00,43.98,WATCH,8.00,Healthcare
-BTI,MEDIUM,26.2%,-0.3%,-17.0%,0.49,BASING,0.20,-0.67,FALLING_KNIFE,3.00,Consumer Defensive
+AFRM,MEDIUM,39.2%,-7.9%,-59.7%,0.97,NORMAL,4.57,4.51,FALLING_KNIFE,8.00,Financial Services
