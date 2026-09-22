@@ -1,4 +1,4 @@
-# run=2026-09-22_1151  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
+# run=2026-09-22_1259  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
 ticker,ready_to_buy_excluded,quality_flag,quality_score,target_upside,price_above_ma50,estimate_momentum_state,eps_rev_30d,eps_rev_90d,price_stale,_ohlcv_fresh
 AON,BOTH_ESTIMATES_NEGATIVE,MEDIUM,66.4,32.0%,False,,-5.10,-5.25,False,True
 ADSK,BOTH_ESTIMATES_NEGATIVE,MEDIUM,64.2,43.0%,False,,-0.21,-0.47,False,True
@@ -7,7 +7,7 @@ IT,NEAR_TARGET,MEDIUM,59.8,1.0%,True,,-1.06,6.66,False,True
 CME,NEAR_TARGET,HIGH,58.9,2.9%,True,,-0.06,0.07,False,True
 T,LOW_QUALITY,LOW,58.4,14.0%,True,,0.20,0.76,False,True
 ADP,NEAR_TARGET,MEDIUM,58.1,6.5%,True,,0.00,0.58,False,True
-ZTO,BOTH_ESTIMATES_NEGATIVE,HIGH,56.3,45.3%,False,,-2.35,-2.10,False,True
+ZTO,BOTH_ESTIMATES_NEGATIVE,HIGH,56.3,45.0%,False,,-2.35,-2.10,False,True
 NFLX,BOTH_ESTIMATES_NEGATIVE,HIGH,52.6,27.3%,False,,-0.05,-0.33,False,True
 AAPL,ABOVE_TARGET,HIGH,51.2,-3.2%,True,,0.47,-0.96,False,True
 TRU,BOTH_ESTIMATES_NEGATIVE,MEDIUM,49.4,36.7%,False,,-0.57,-0.15,False,True
