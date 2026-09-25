@@ -1,9 +1,9 @@
-# run=2026-09-24_1545  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
+# run=2026-09-25_1604  universe=237  cache_hit=0.0%  price_stale=0/237  fetch_failed=0/237
 ticker,quality_flag,ready_to_buy_excluded,target_upside,turn_state,eps_rev_90d,eps_rev_30d,debtToEquity,fcf_margin,profitMargins,survivability,price_above_ma50,pct_change_1mo,sector
-CCL,LOW,LOW_QUALITY,60.4%,FALLING_KNIFE,-1.57,-1.26,201.56,0.06,0.11,27.70,False,-17.8%,Consumer Cyclical
-VST,LOW,LOW_QUALITY,58.9%,FALLING_KNIFE,-6.46,-1.27,373.28,0.00,0.12,13.40,False,-1.5%,Utilities
-CEG,SPECULATIVE,SPECULATIVE,34.4%,WATCH,-2.15,-0.41,76.42,-0.07,0.11,23.70,False,-5.2%,Utilities
-DAR,LOW,LOW_QUALITY,30.4%,FUNDAMENTALS_READY_PRICE_FALLING,23.52,10.25,78.61,0.02,0.09,24.70,False,0.4%,Consumer Defensive
-UNH,LOW,LOW_QUALITY,29.5%,FUNDAMENTALS_READY_PRICE_FALLING,8.02,0.78,69.21,0.07,0.03,41.50,False,-6.7%,Healthcare
-MCD,LOW,LOW_QUALITY,27.2%,EARLY_TURN,-2.00,-0.47,,0.04,0.32,78.20,False,-10.2%,Consumer Cyclical
-WPM,SPECULATIVE,SPECULATIVE,24.9%,FALLING_KNIFE,-11.65,-1.46,20.40,-0.05,0.65,62.70,True,-11.0%,Basic Materials
+VST,LOW,LOW_QUALITY,58.9%,WATCH,-6.46,-1.27,373.28,0.00,0.12,13.40,False,-2.2%,Utilities
+CCL,LOW,LOW_QUALITY,51.6%,EARLY_TURN,-1.94,-1.95,201.56,0.06,0.11,27.70,False,-12.4%,Consumer Cyclical
+DAR,LOW,LOW_QUALITY,33.0%,FUNDAMENTALS_READY_PRICE_FALLING,23.52,10.25,78.61,0.02,0.09,24.70,False,-1.8%,Consumer Defensive
+CEG,SPECULATIVE,SPECULATIVE,32.3%,WATCH,-1.51,-0.16,76.42,-0.07,0.11,23.70,False,-6.1%,Utilities
+UNH,LOW,LOW_QUALITY,27.4%,EARLY_TURN,8.02,0.78,69.21,0.07,0.03,41.50,False,-5.7%,Healthcare
+MCD,LOW,LOW_QUALITY,26.5%,WATCH,-2.50,-0.97,,0.04,0.32,78.20,False,-11.2%,Consumer Cyclical
+WPM,SPECULATIVE,SPECULATIVE,23.7%,WATCH,-11.65,-1.46,20.40,-0.05,0.65,62.70,True,-7.8%,Basic Materials
