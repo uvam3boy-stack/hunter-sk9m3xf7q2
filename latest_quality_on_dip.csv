@@ -1,10 +1,7 @@
-# run=2026-10-02_1510  universe=315  cache_hit=0.0%  price_stale=21/315  fetch_failed=11/315
+# run=2026-10-02_1701  universe=315  cache_hit=0.0%  price_stale=0/315  fetch_failed=11/315
 ticker,quality_flag,target_upside,pct_change_1mo,dist_from_ath,vol_vs_10d_avg,recent_action,eps_rev_30d,eps_rev_90d,turn_state,conviction_count,sector
-FSLR,HIGH,57.3%,-13.4%,-45.4%,0.44,NORMAL,0.52,-0.19,WATCH,8.00,Technology
-NTES,HIGH,38.2%,-1.5%,-26.3%,0.98,NORMAL,0.07,0.20,FALLING_KNIFE,9.00,Communication Services
-IDCC,HIGH,37.9%,1.7%,-18.7%,0.50,NORMAL,0.00,3.07,WATCH,7.00,Technology
-CRUS,HIGH,35.4%,7.8%,-32.5%,0.35,NORMAL,0.00,-5.18,WATCH,6.00,Technology
-RMBS,HIGH,31.8%,32.4%,-35.6%,0.23,STRENGTH-HOLLOW,0.66,1.43,CONFIRMED,8.00,Technology
-ODFL,HIGH,27.7%,-3.6%,-28.3%,0.41,NORMAL,0.18,4.92,WATCH,9.00,Industrials
-MLI,HIGH,27.1%,1.4%,-11.5%,0.28,STRENGTH-HOLLOW,0.00,0.11,WATCH,7.00,Industrials
-GOOGL,HIGH,25.3%,1.7%,-16.1%,0.53,NORMAL,0.57,2.88,FUNDAMENTALS_READY_PRICE_FALLING,9.00,Communication Services
+FSLR,HIGH,58.0%,-13.8%,-45.6%,0.69,NORMAL,0.52,-0.19,WATCH,8.00,Technology
+CRUS,HIGH,36.2%,7.2%,-32.8%,0.72,NORMAL,0.00,-5.18,WATCH,7.00,Technology
+RMBS,HIGH,32.1%,32.2%,-35.7%,0.37,STRENGTH-HOLLOW,0.66,1.43,CONFIRMED,8.00,Technology
+ODFL,HIGH,27.9%,-3.8%,-28.4%,0.99,NORMAL,0.18,4.92,WATCH,9.00,Industrials
+MLI,HIGH,27.9%,0.8%,-12.0%,0.55,STRENGTH-HOLLOW,0.00,0.11,WATCH,7.00,Industrials
