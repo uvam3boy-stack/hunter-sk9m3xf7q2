@@ -1,12 +1,12 @@
-# run=2026-10-02_0818  universe=319  cache_hit=0.0%  price_stale=1/319  fetch_failed=11/319
+# run=2026-10-02_0941  universe=319  cache_hit=0.0%  price_stale=1/319  fetch_failed=11/319
 ticker,quality_flag,target_upside,pct_change_1mo,dist_from_ath,vol_vs_10d_avg,recent_action,eps_rev_30d,eps_rev_90d,turn_state,conviction_count,sector
-WDC,HIGH,43.7%,2.7%,-42.2%,0.82,NORMAL,16.95,29.16,WATCH,11.00,Technology
-RMBS,HIGH,37.8%,27.1%,-38.4%,0.33,NORMAL,0.66,1.43,CONFIRMED,8.00,Technology
-CRUS,HIGH,37.3%,10.2%,-33.4%,0.69,NORMAL,0.00,-5.18,WATCH,7.00,Technology
-IDCC,HIGH,36.1%,6.3%,-17.6%,0.72,STRENGTH-HOLLOW,0.00,3.07,CONFIRMED,6.00,Technology
-NTES,HIGH,34.9%,0.4%,-24.4%,0.93,BASING,0.07,0.20,FUNDAMENTALS_READY_PRICE_FALLING,10.00,Communication Services
-JKHY,HIGH,31.9%,-14.4%,-32.4%,0.95,NORMAL,0.60,2.63,FUNDAMENTALS_READY_PRICE_FALLING,9.00,Technology
-MLI,HIGH,30.5%,0.5%,-13.8%,0.80,NORMAL,0.00,0.11,FUNDAMENTALS_READY_PRICE_FALLING,8.00,Industrials
-ODFL,HIGH,29.7%,-4.8%,-29.3%,0.96,NORMAL,0.18,4.92,EARLY_TURN,8.00,Industrials
-GOOG,HIGH,26.1%,0.9%,-17.2%,0.99,GAP-UP-FADED,1.01,3.61,FALLING_KNIFE,8.00,Communication Services
-CSCO,HIGH,25.2%,-0.9%,-16.6%,0.56,NORMAL,0.43,7.15,WATCH,9.00,Technology
+TME,HIGH,64.1%,-8.5%,-71.2%,0.08,GAP-UP-FADED,0.00,-6.05,FALLING_KNIFE,6.00,Communication Services
+FSLR,HIGH,57.2%,-13.4%,-45.3%,0.05,NORMAL,0.52,-0.19,WATCH,8.00,Technology
+MU,HIGH,39.1%,14.3%,-12.9%,0.19,NORMAL,3.65,7.85,WATCH,9.00,Technology
+NTES,HIGH,38.5%,-1.7%,-26.4%,0.12,NORMAL,0.07,0.20,FALLING_KNIFE,9.00,Communication Services
+CRUS,HIGH,36.7%,6.7%,-33.1%,0.04,NORMAL,0.00,-5.18,WATCH,6.00,Technology
+CRDO,HIGH,26.5%,34.5%,-28.0%,0.14,STRENGTH-HOLLOW,6.41,9.69,CONFIRMED,9.00,Technology
+IDCC,HIGH,34.3%,4.5%,-16.5%,0.03,NORMAL,0.00,3.07,CONFIRMED,6.00,Technology
+RMBS,HIGH,32.6%,31.6%,-35.9%,0.03,STRENGTH-HOLLOW,0.66,1.43,CONFIRMED,8.00,Technology
+MLI,HIGH,27.6%,1.0%,-11.8%,0.01,STRENGTH-HOLLOW,0.00,0.11,WATCH,7.00,Industrials
+ODFL,HIGH,27.3%,-3.3%,-28.0%,0.02,NORMAL,0.18,4.92,WATCH,8.00,Industrials
