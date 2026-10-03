@@ -1,4 +1,4 @@
-# run=2026-10-03_0828  universe=313  cache_hit=0.0%  price_stale=17/313  fetch_failed=11/313  vol_confirmed=35
+# run=2026-10-03_0915  universe=313  cache_hit=0.0%  price_stale=1/313  fetch_failed=11/313  vol_confirmed=35
 ticker,quality_flag,target_upside,pct_change_1mo,dist_from_ath,vol_vs_10d_avg,recent_action,eps_rev_30d,eps_rev_90d,turn_state,conviction_count,sector
 BROS,MEDIUM,88.6%,-19.7%,-55.5%,0.70,NORMAL,1.58,6.40,WATCH,9.00,Consumer Cyclical
 AS,MEDIUM,74.6%,-4.9%,-36.5%,0.96,FELL-RECOVERED,2.19,5.03,FALLING_KNIFE,9.00,Consumer Cyclical

@@ -1,4 +1,4 @@
-# run=2026-10-03_0828  universe=313  cache_hit=0.0%  price_stale=17/313  fetch_failed=11/313  vol_confirmed=35
+# run=2026-10-03_0915  universe=313  cache_hit=0.0%  price_stale=1/313  fetch_failed=11/313  vol_confirmed=35
 ticker,quality_flag,ready_to_buy_excluded,target_upside,turn_state,eps_rev_90d,eps_rev_30d,debtToEquity,fcf_margin,profitMargins,survivability,price_above_ma50,pct_change_1mo,sector
 NXST,SPECULATIVE,SPECULATIVE,58.8%,FALLING_KNIFE,-3.72,0.00,533.79,0.17,0.03,22.80,False,-12.3%,Communication Services
 VST,LOW,LOW_QUALITY,52.0%,WATCH,-8.37,0.10,373.28,0.00,0.12,15.60,False,-2.4%,Utilities
