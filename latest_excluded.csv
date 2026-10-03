@@ -1,4 +1,4 @@
-# run=2026-10-03_0915  universe=313  cache_hit=0.0%  price_stale=1/313  fetch_failed=11/313  vol_confirmed=35
+# run=2026-10-03_0951  universe=313  cache_hit=0.0%  price_stale=1/313  fetch_failed=11/313  vol_confirmed=35
 ticker,ready_to_buy_excluded,quality_flag,quality_score,target_upside,price_above_ma50,estimate_momentum_state,eps_rev_30d,eps_rev_90d,price_stale,_ohlcv_fresh
 PEP,BOTH_ESTIMATES_NEGATIVE,MEDIUM,68.9,18.6%,False,,-0.56,-1.77,False,True
 AON,BOTH_ESTIMATES_NEGATIVE,MEDIUM,67.1,40.0%,False,,-5.12,-5.25,False,True
