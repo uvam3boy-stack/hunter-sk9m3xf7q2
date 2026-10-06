@@ -1,10 +1,12 @@
-# run=2026-10-06_1142  universe=317  cache_hit=0.0%  price_stale=0/317  fetch_failed=12/317  vol_confirmed=3
+# run=2026-10-06_1426  universe=317  cache_hit=0.0%  price_stale=0/317  fetch_failed=12/317  vol_confirmed=6
 ticker,quality_flag,target_upside,pct_change_1mo,dist_from_ath,vol_vs_10d_avg,recent_action,eps_rev_30d,eps_rev_90d,turn_state,conviction_count,sector
-TME,HIGH,59.9%,-4.5%,-70.5%,0.12,FELL-RECOVERED,0.00,-6.05,EARLY_TURN,7.00,Communication Services
-FSLR,HIGH,54.4%,-12.6%,-44.3%,0.20,NORMAL,0.52,-0.19,EARLY_TURN,8.00,Technology
-FUTU,HIGH,43.3%,-7.8%,-44.6%,0.39,STRENGTH-HOLLOW,-0.00,1.04,CONFIRMED,11.00,Financial Services
-NTES,HIGH,37.4%,-0.6%,-25.7%,0.24,FELL-RECOVERED,0.07,0.20,FUNDAMENTALS_READY_PRICE_FALLING,10.00,Communication Services
-IDCC,HIGH,36.4%,0.3%,-17.8%,0.16,FELL-RECOVERED,0.00,3.07,CONFIRMED,6.00,Technology
-AZN,HIGH,33.0%,-2.3%,-25.3%,0.41,NORMAL,0.00,43.98,FUNDAMENTALS_READY_PRICE_FALLING,8.00,Healthcare
-ODFL,HIGH,26.7%,-3.6%,-28.9%,0.20,FELL-RECOVERED,0.18,4.92,FUNDAMENTALS_READY_PRICE_FALLING,9.00,Industrials
-MLI,HIGH,26.9%,-1.1%,-11.3%,0.17,BASING,0.00,0.11,WATCH,7.00,Industrials
+TCEHY,HIGH,77.1%,-3.5%,-37.7%,0.11,FELL-RECOVERED,0.00,-18.48,WATCH,8.00,Communication Services
+TME,HIGH,58.4%,-3.8%,-70.2%,0.24,NORMAL,0.00,-6.05,WATCH,7.00,Communication Services
+FSLR,HIGH,53.6%,-12.2%,-44.0%,0.34,NORMAL,0.52,-0.19,EARLY_TURN,8.00,Technology
+FUTU,HIGH,41.3%,-6.5%,-43.8%,0.70,STRENGTH-HOLLOW,-0.00,1.04,CONFIRMED,11.00,Financial Services
+NTES,HIGH,36.7%,-0.3%,-25.5%,0.41,FELL-RECOVERED,0.07,0.20,FUNDAMENTALS_READY_PRICE_FALLING,10.00,Communication Services
+IDCC,HIGH,36.2%,0.5%,-17.7%,0.30,FELL-RECOVERED,0.00,3.07,CONFIRMED,6.00,Technology
+AZN,HIGH,33.4%,-2.6%,-25.5%,0.53,NORMAL,0.00,43.98,EARLY_TURN,8.00,Healthcare
+ODFL,HIGH,26.8%,-3.6%,-28.9%,0.46,NORMAL,0.18,4.92,FUNDAMENTALS_READY_PRICE_FALLING,9.00,Industrials
+CRDO,HIGH,26.0%,29.8%,-28.3%,0.63,STRENGTH-HOLLOW,0.78,8.73,WATCH,9.00,Technology
+MLI,HIGH,26.8%,-1.0%,-11.3%,0.31,FELL-RECOVERED,0.00,0.11,WATCH,7.00,Industrials

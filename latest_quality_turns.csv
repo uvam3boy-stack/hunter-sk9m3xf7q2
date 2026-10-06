@@ -1,11 +1,11 @@
-# run=2026-10-06_1142  universe=317  cache_hit=0.0%  price_stale=0/317  fetch_failed=12/317  vol_confirmed=3
+# run=2026-10-06_1426  universe=317  cache_hit=0.0%  price_stale=0/317  fetch_failed=12/317  vol_confirmed=6
 ticker,quality_flag,ready_to_buy_excluded,target_upside,turn_state,eps_rev_90d,eps_rev_30d,debtToEquity,fcf_margin,profitMargins,survivability,price_above_ma50,pct_change_1mo,sector
-NXST,SPECULATIVE,SPECULATIVE,56.8%,WATCH,-3.72,0.00,533.79,0.17,0.03,23.50,False,-11.0%,Communication Services
-CWEN,SPECULATIVE,SPECULATIVE,37.0%,WATCH,-29.27,-40.16,176.90,0.06,0.06,25.80,False,-4.8%,Utilities
-DAR,LOW,LOW_QUALITY,33.0%,FUNDAMENTALS_READY_PRICE_FALLING,23.52,10.25,78.61,0.02,0.09,27.40,False,-5.9%,Consumer Defensive
-F,SPECULATIVE,SPECULATIVE,31.9%,WATCH,6.86,2.24,456.71,-0.16,-0.04,3.50,False,-16.9%,Consumer Cyclical
-VST,LOW,LOW_QUALITY,30.6%,CONFIRMED,-8.37,0.10,373.28,0.00,0.12,15.50,True,7.8%,Utilities
-WPM,SPECULATIVE,SPECULATIVE,28.9%,WATCH,-11.77,-1.59,20.40,-0.06,0.65,63.30,False,-11.0%,Basic Materials
-UNH,LOW,LOW_QUALITY,28.5%,FUNDAMENTALS_READY_PRICE_FALLING,8.02,0.78,69.21,0.07,0.03,41.50,False,-5.6%,Healthcare
-CCL,LOW,LOW_QUALITY,27.3%,WATCH,-1.92,-2.11,177.11,0.05,0.11,36.70,True,13.3%,Consumer Cyclical
-MCD,LOW,LOW_QUALITY,26.5%,WATCH,-2.50,-0.85,,0.04,0.32,79.40,False,-8.9%,Consumer Cyclical
+NXST,SPECULATIVE,SPECULATIVE,57.3%,WATCH,-3.72,0.00,533.79,0.17,0.03,23.50,False,-11.3%,Communication Services
+CWEN,SPECULATIVE,SPECULATIVE,36.8%,WATCH,-29.27,-40.16,176.90,0.06,0.06,25.80,False,-4.7%,Utilities
+DAR,LOW,LOW_QUALITY,32.5%,FUNDAMENTALS_READY_PRICE_FALLING,23.52,10.25,78.61,0.02,0.09,27.40,False,-5.5%,Consumer Defensive
+VST,LOW,LOW_QUALITY,31.9%,CONFIRMED,-8.37,0.10,373.28,0.00,0.12,15.50,True,6.7%,Utilities
+F,SPECULATIVE,SPECULATIVE,30.9%,WATCH,6.86,2.24,456.71,-0.16,-0.04,3.50,False,-16.8%,Consumer Cyclical
+UNH,LOW,LOW_QUALITY,28.4%,FUNDAMENTALS_READY_PRICE_FALLING,8.02,0.78,69.21,0.07,0.03,41.50,False,-5.6%,Healthcare
+WPM,SPECULATIVE,SPECULATIVE,28.4%,WATCH,-11.77,-1.59,20.40,-0.06,0.65,63.30,False,-10.7%,Basic Materials
+CCL,LOW,LOW_QUALITY,28.2%,WATCH,-1.92,-2.11,177.11,0.05,0.11,36.70,True,12.6%,Consumer Cyclical
+MCD,LOW,LOW_QUALITY,26.9%,WATCH,-2.50,-0.85,,0.04,0.32,79.40,False,-9.2%,Consumer Cyclical
